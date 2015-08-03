@@ -1,3 +1,7 @@
+// COLOR OVERWRITE KIT
+//---------------------
+
+
 // colors for palette overwrite
 $one: #C7C6C5;
 $two: #FAFAFA;
@@ -9,7 +13,7 @@ $seven: #F5F4EC;
 $eight: #FDFDFD;
 $nine: #121212;
 
-// overwrite specific element
+// overwrite a specific element
 $line: 1px solid $one;
 $bodybg: $two;
 $main_color: $three;
@@ -48,7 +52,12 @@ $foot_3_color: $eight;
 $foot_3_a_color: $six;
 $foot_3_a_hover_color: $eight;
 $comment_input_highlight_color: $five;
-// do not change collapses
+
+//----------------------------------------------------------------------------------------------------------------
+// DO NOT CHANGE ANYTHING BELOW THIS LINE IF YOU DON'T KNOW WHAT YOU ARE DOING!
+//----------------------------------------------------------------------------------------------------------------
+
+// do not change collapses - if you want to change a collapse, do that in the full Sass files, because not all style changes are included here
 $nav_collapse: 900px;
 $ribbon_display: yes;
 $meta_line_display: yes;
