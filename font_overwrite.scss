@@ -1,0 +1,223 @@
+// serif font
+$sfont: 'Playfair Display', 'Georgia', 'Times New Roman', serif;
+$sweight: 700;
+
+// sans serif font
+$ssfont: 'Lato', 'Calibri', 'Arial', sans-serif;
+$sslight: 300;
+$ssnormal: 400;
+$ssbold: 700;
+
+$root_font_size: 17px;
+$general_line-height: 1.5;
+
+$h_text_transform: uppercase;
+$tags_text-transform: uppercase;
+
+
+html {
+    font: {
+        family: $ssfont;
+        size: 1em;
+        size: $root_font_size;
+        weight: $sslight;
+    }
+    @media screen and (max-width: 700px) {
+        font-size: $root_font_size - 3;
+    }
+}
+
+body {
+    @extend html;
+    line-height: $general_line-height;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: $ssnormal;
+    text-transform: $h_text_transform;
+    line-height: 1;
+    padding: 10px 0px;
+}
+
+h1 {
+    font-size: 2.1em;
+}
+
+h2 {
+    font-size: 1.6em;
+}
+
+h3 {
+    font-size: 1.2em;
+}
+
+h4 {
+    font-size: 1em;
+}
+
+h5 {
+    font-size: .83em;
+}
+
+h6 {
+    font-size: .75em;
+}
+
+blockquote {
+    font-family: $sfont;
+    font-size: 1.1em;
+    letter-spacing: 2px;
+}
+
+.head {
+    @media screen and (max-width: 800px) {
+        font-size: .5em;
+        word-break: break-all;
+    }
+    h1 {
+        font: {
+            size: 5em;
+            family: $sfont;
+            weight: $sweight;
+        }
+        text-transform: uppercase;
+        letter-spacing: .4em;
+        text-align: center;
+        line-height: 2;
+    }
+    h2 {
+        text-align: center;
+        font: {
+            size: 2em;
+        }
+        line-height: 1;
+    }
+}
+
+.pagination {
+    font-size: 1.1em;
+    text-align: center;
+    span {
+        font-family: $sfont;
+        letter-spacing: 2px;
+        text-transform: uppercase;
+    }
+    a {
+        @extend span;
+    }
+}
+
+article {
+    header {
+        text-align: center;
+    }
+    footer {
+        text-align: center;
+        letter-spacing: 2px;
+        text-transform: $tags_text-transform;
+        font: {
+            family: $sfont;
+            size: .8em;
+        }
+    }
+    .rm {
+        text-align: center;
+        font-family: $sfont;
+        letter-spacing: 2px;
+    }
+    .post {
+        text-align: justify;
+    }
+}
+
+.comments {
+    h2 {
+        font: {
+            family: $sfont;
+            weight: $sweight;
+        }
+        letter-spacing: 3px;
+        line-height: 2;
+        text-align: center;
+    }
+    .comments-list {
+        .comment-author {
+            font-size: 1.2em;
+            font-weight: $ssnormal;
+            text-transform: uppercase;
+        }
+        .comment-meta {
+            font-size: .8em;
+        }
+    }
+}
+
+.comment-respond {
+    h3 {
+        text-align: center;
+    }
+    .comment-notes {
+        font-style: italic;
+    }
+    .comment-form-comment {
+        textarea {
+            font-size: 18px;
+        }
+        label {
+            font-size: 14px;
+            font-weight: normal;
+        }
+    }
+    .form-submit {
+        text-align: center;
+        input {
+            font-family: $sfont;
+            letter-spacing: 2px;
+        }
+    }
+    .form-allowed-tags {
+        font-size: .8em;
+        font-family: monospace;
+    }
+}
+
+.group {
+    input {
+        font-size: 18px;
+        &:valid ~ label, &:focus ~ label {
+            font-size: 14px;
+        }
+    }
+    label {
+        font-size: 18px;
+        font-weight: normal;
+    }
+}
+
+.foot2 {
+    font-family: $sfont;
+    a {
+        font-weight: $ssnormal;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+    }
+}
+
+.notice {
+    text-align: center;
+    font-size: .8em;
+}
+
+.single {
+    .page-nav {
+        p {
+            text-transform: uppercase;
+        }
+    }
+}
+
+.widget {
+    h2 {
+        text-align: center;
+    }
+}

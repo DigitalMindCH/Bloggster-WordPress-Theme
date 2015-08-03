@@ -1,0 +1,432 @@
+// colors for palette overwrite
+$one: #C7C6C5;
+$two: #FAFAFA;
+$three: #333;
+$four: #3C3D40;
+$five: #111113;
+$six: #e3e3e3;
+$seven: #F5F4EC;
+$eight: #FDFDFD;
+$nine: #121212;
+
+// overwrite specific element
+$line: 1px solid $one;
+$bodybg: $two;
+$main_color: $three;
+$a_color: lighten($four, 15%);
+$a_hover_color: $five;
+$main_title_color: $five;
+$main_title_hover_color: $one;
+$togglenav_bg: $four;
+$togglenav_color: $eight;
+$togglenav_hover_color: $six;
+$tm_bg_color: $five;
+$tm_color: $eight;
+$tm_hover_color: darken($six, 10%);
+$tm_hover_bg: lighten($tm_bg_color, 10%);
+$widget_title_bar_bg: $bodybg;
+$widget_title_bar_color: $nine;
+$rm_border_color: $four;
+$rm_background_color: $eight;
+$rm_hover_border_color: $seven;
+$rm_hover_background_color: $bodybg;
+$ribbon_bg: $five;
+$ribbon_color: $eight;
+$pagination_color: $four;
+$pagination_border: 1px solid $five;
+$pagination_hover_color: $five;
+$pagination_hover_border_color: $seven;
+$pagination_current_border: 1px solid $one;
+$pagination_current_color: $four;
+$offcanvas_sidebar_bg: $eight;
+$foot_2_bg: $six;
+$foot_2_color: $nine;
+$foot_2_a_color: $four;
+$foot_2_a_hover_color: lighten($four, 20%);
+$foot_3_bg: $five;
+$foot_3_color: $eight;
+$foot_3_a_color: $six;
+$foot_3_a_hover_color: $eight;
+$comment_input_highlight_color: $five;
+// do not change collapses
+$nav_collapse: 900px;
+$ribbon_display: yes;
+$meta_line_display: yes;
+$title_line_display: yes;
+
+@mixin ghostbutton($bc, $bg, $bch, $bgh) {
+    padding: 5px 12px;
+    text-transform: uppercase;
+    border-top: 1px solid $bc;
+    border-bottom: 1px solid $bc;
+    background: $bg;
+    border-radius: 0px;
+    line-height: 2.8;
+    color: set-button-color($bg);
+    &:hover {
+        border-color: $bch;
+        background: $bgh;
+        color: set-button-color($bgh);
+    }
+}
+
+@mixin arrowline($bg, $c, $lc, $s) {
+    position: relative;
+    background: $bg;
+    color: $c;
+    border-bottom: $lc;
+    &:after {
+        content: '';
+        width: $s;
+        height: $s;
+        background: $bg;
+        position: absolute;
+        top: 100%;
+        left: 50%;
+        margin-top: -($s * 1.414213562)/2.8;
+        margin-left: -($s / 2);
+        transform: rotate(45deg);
+        border-bottom: $lc;
+        border-right: $lc;
+    }
+}
+
+@mixin triangle_ra($w, $h, $dir, $c) {
+    width: 0;
+    height: 0;
+    border-style: solid;
+    @if $dir == bottom-left {
+        border-color: transparent transparent transparent $c;
+        border-width: $h 0 0 $w;
+    }
+    @if $dir == bottom-right {
+        border-color: transparent transparent $c transparent;
+        border-width: 0 0 $h $w;
+    }
+    @if $dir == top-left {
+        border-color: $c transparent transparent transparent;
+        border-width: $h $w 0 0;
+    }
+    @if $dir == top-right {
+        border-color: transparent $c transparent transparent;
+        border-width: 0px $w $h 0px;
+    }
+}
+
+@mixin triangle_eqla($sl, $dir, $c) {
+    width: 0;
+    height: 0;
+    border-style: solid;
+    @if $dir == right {
+        border-color: transparent transparent transparent $c;
+    }
+    @if $dir == left {
+        border-color: transparent $c transparent transparent;
+    }
+    @if $dir == bottom or $dir == down {
+        border-color: $c transparent transparent transparent;
+    }
+    @if $dir == top or $dir == up {
+        border-color: transparent transparent $c transparent;
+    }
+    @if $dir == right or $dir == left {
+        border-width: ($sl/2) (1.73205*($sl/2));
+    }
+    @if $dir == top or $dir == down or $dir == bottom or $dir == up {
+        border-width: (1.73205*($sl/2)) ($sl/2);
+    }
+}
+
+@function set-button-color($c) {
+    @if (lightness($c) > 50) {
+        @return black;
+    }
+    @else {
+        @return white;
+    }
+}
+
+html {
+    color: $main_color;
+}
+
+body {
+    @extend html;
+    background: {
+        color: $bodybg;
+    }
+}
+
+a {
+    color: $a_color;
+    &:hover {
+        color: $a_hover_color;
+    }
+}
+
+blockquote {
+    border-left: $line;
+}
+
+.toggle_nav {
+    @media screen and (max-width: $nav_collapse) {
+        background: $togglenav_bg;
+        .toggle {
+            &:hover {
+                color: $togglenav_hover_color;
+            }
+            color: $togglenav_color;
+        }
+    }
+}
+
+.main_menu {
+    background: $tm_bg_color;
+    color: $tm_color;
+    a {
+        color: $tm_color;
+        &:hover {
+            color: $tm_hover_color;
+        }
+    }
+    .parent {
+        .submenu-opener {
+            &:after {
+                @include triangle_eqla(10px, down, $tm_color);
+            }
+            &:hover {
+                &:after {
+                    border-color: $tm_hover_color transparent transparent transparent;
+                }
+            }
+        }
+    }
+    .sub-menu {
+        background: lighten($tm_bg_color, 5%);
+    }
+}
+
+.toggle {
+    @extend a;
+}
+
+.head {
+    h1 {
+        a & {
+            color: $main_title_color;
+        }
+        a:hover & {
+            color: $main_title_hover_color;
+        }
+    }
+}
+
+.feat {
+    .content {
+        border-bottom: $line;
+    }
+    article {
+        .feattitle {
+            @if $ribbon_display == yes {
+                color: $ribbon_color;
+                background: $ribbon_bg;
+                &:after {
+                    @include triangle_ra(10px, (10px/1.5), top-left, darken($ribbon_bg, 15%));
+                }
+            } @else {
+                display: none;
+            }
+        }
+    }
+}
+
+.sidebar {
+    @media screen and (max-width: $nav_collapse) {
+        background: $offcanvas_sidebar_bg;
+        color: set-button-color($offcanvas_sidebar_bg);
+    }
+}
+
+.pagination {
+    span {
+        color: $pagination_color;
+    }
+    a {
+        border-top: $pagination_border;
+        border-bottom: $pagination_border;
+        &:hover {
+            color: $pagination_hover_color;
+            border-color: $pagination_hover_border_color;
+        }
+    }
+    .current {
+        color: $pagination_current_color;
+        border-top: $pagination_current_border;
+        border-bottom: $pagination_current_border;
+    }
+}
+
+article {
+    border-bottom: $line;
+    footer {
+        border-top: $line;
+        border-bottom: $line;
+    }
+    .meta {
+        @if $meta_line_display == yes {
+            &:after {
+                border-bottom: $line;
+            }
+            &:before {
+                background: $bodybg;
+                border-bottom: $line;
+                border-right: $line;
+            }
+        }
+    }
+    .rm {
+        a {
+            @include ghostbutton($rm_border_color, $rm_background_color, $rm_hover_border_color, $rm_hover_background_color);
+        }
+    }
+}
+
+.authorbox {
+    border: $line;
+    background: $bodybg;
+    .author_info {
+        @include arrowline($bodybg, $main_color, $line, 10px);
+    }
+    .social_media_links {
+        a {
+            i {
+                background-color: $a_color;
+                color: set-button-color($a_color);
+                &:hover {
+                    background-color: $a_hover_color;
+                    color: set-button-color($a_hover_color);
+                }
+            }
+        }
+    }
+}
+
+.author_website_label,
+.social_links_label {
+    color: lighten($main_color, 10%);
+}
+
+.comments {
+    .comments-list {
+        li {
+            border: $line;
+        }
+        .comment-author {
+            border-bottom: $line;
+            @if $title_line_display == yes {
+                @include arrowline($widget_title_bar_bg, $widget_title_bar_color, $line, 10px);
+            } @else {
+                background: $widget_title_bar_bg;
+                color: $widget_title_bar_color;
+            }
+        }
+        .children {
+            li {
+                border-left: $line;
+            }
+        }
+    }
+}
+
+.comment-respond {
+    h3 {
+        @if $title_line_display == yes {
+            @include arrowline($widget_title_bar_bg, $widget_title_bar_color, $line, 10px);
+        } @else {
+            background: $widget_title_bar_bg;
+            color: $widget_title_bar_color;
+        }
+    }
+    .comment-form-comment {
+        textarea {
+            border-bottom: $line;
+        }
+    }
+    .form-submit {
+        input {
+            @include ghostbutton($rm_border_color, $rm_background_color, $rm_hover_border_color, $rm_hover_background_color);
+        }
+    }
+}
+
+.group {
+    input {
+        border-bottom: $line;
+    }
+    .bar {
+        &:before, &:after {
+            background: $comment_input_highlight_color;
+        }
+    }
+}
+
+.foot1 {
+    .content {
+        border-top: $line;
+    }
+}
+
+.foot2 {
+    background: $foot_2_bg;
+    color: $foot_2_color;
+    a {
+        color: $foot_2_a_color;
+        &:hover {
+            color: $foot_2_a_hover_color;
+        }
+    }
+}
+
+.foot3,
+.notice {
+    background: $foot_3_bg;
+    color: $foot_3_color;
+    a {
+        color: $foot_3_a_color;
+        &:hover {
+            color: $foot_3_a_hover_color;
+        }
+    }
+    .smline {
+        .fa {
+            background: $foot_3_color;
+            color: $foot_3_bg;
+            &:hover {
+                color: $foot_3_color;
+                background: $foot_3_bg;
+            }
+        }
+    }
+}
+
+.notice {
+    border-top: 1px solid rgba(invert($foot_3_bg), .1);
+}
+
+.single {
+    .page-nav {
+        border-bottom: $line;
+    }
+}
+
+.widget {
+    border: $line;
+    h2 {
+        @if $title_line_display == yes {
+            @include arrowline($widget_title_bar_bg, $widget_title_bar_color, $line, 10px);
+        } @else {
+            background: $widget_title_bar_bg;
+            color: $widget_title_bar_color;
+        }
+    }
+}
