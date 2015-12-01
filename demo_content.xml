@@ -26,16 +26,16 @@
 >
 
 <channel>
-	<title>Blogster</title>
-	<link>http://blogster.digitalmind.ch</link>
+	<title>Bloggster</title>
+	<link>http://bloggster.digitalmind.ch</link>
 	<description>An Awesome WordPress Template</description>
 	<pubDate>Wed, 04 Feb 2015 08:10:47 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>http://blogster.digitalmind.ch</wp:base_site_url>
-	<wp:base_blog_url>http://blogster.digitalmind.ch</wp:base_blog_url>
+	<wp:base_site_url>http://bloggster.digitalmind.ch</wp:base_site_url>
+	<wp:base_blog_url>http://bloggster.digitalmind.ch</wp:base_blog_url>
 
-	<wp:author><wp:author_id>1</wp:author_id><wp:author_login>Digitalmind</wp:author_login><wp:author_email>blogster@digitalmind.ch</wp:author_email><wp:author_display_name><![CDATA[Digitalmind]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+	<wp:author><wp:author_id>1</wp:author_id><wp:author_login>Digitalmind</wp:author_login><wp:author_email>bloggster@digitalmind.ch</wp:author_email><wp:author_display_name><![CDATA[Digitalmind]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 	<wp:author><wp:author_id>2</wp:author_id><wp:author_login>Myriam</wp:author_login><wp:author_email>myriam@duckstance.com</wp:author_email><wp:author_display_name><![CDATA[Digitalmind]]></wp:author_display_name><wp:author_first_name><![CDATA[Myriam]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
 	<wp:category><wp:term_id>3</wp:term_id><wp:category_nicename>autumn</wp:category_nicename><wp:category_parent></wp:category_parent><wp:cat_name><![CDATA[Autumn]]></wp:cat_name></wp:category>
@@ -59,14 +59,14 @@
 	<generator>http://wordpress.org/?v=4.1</generator>
 
 	<item>
-		<title>the-slope_blogster_wordpress_theme</title>
-		<link>http://blogster.digitalmind.ch/?attachment_id=6</link>
+		<title>the-slope_bloggster_wordpress_theme</title>
+		<link>http://bloggster.digitalmind.ch/?attachment_id=6</link>
 		<pubDate>Tue, 16 Dec 2014 12:27:36 +0000</pubDate>
 		<dc:creator><![CDATA[Digitalmind]]></dc:creator>
-		<guid isPermaLink="false">http://blogster.digitalmind.ch/wp-content/uploads/2014/12/the-slope.jpg</guid>
+		<guid isPermaLink="false">http://bloggster.digitalmind.ch/wp-content/uploads/2014/12/the-slope.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[Blogster WordPress Theme]]></excerpt:encoded>
+		<excerpt:encoded><![CDATA[Bloggster WordPress Theme]]></excerpt:encoded>
 		<wp:post_id>6</wp:post_id>
 		<wp:post_date>2014-12-16 12:27:36</wp:post_date>
 		<wp:post_date_gmt>2014-12-16 12:27:36</wp:post_date_gmt>
@@ -79,7 +79,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://blogster.digitalmind.ch/wp-content/uploads/2014/12/the-slope.jpg</wp:attachment_url>
+		<wp:attachment_url>http://bloggster.digitalmind.ch/wp-content/uploads/2014/12/the-slope.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2014/12/the-slope.jpg]]></wp:meta_value>
@@ -90,15 +90,15 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
-			<wp:meta_value><![CDATA[Blogster WordPress Theme]]></wp:meta_value>
+			<wp:meta_value><![CDATA[Bloggster WordPress Theme]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
 		<title>Eden Asset Library</title>
-		<link>http://blogster.digitalmind.ch/?attachment_id=9</link>
+		<link>http://bloggster.digitalmind.ch/?attachment_id=9</link>
 		<pubDate>Tue, 16 Dec 2014 12:33:42 +0000</pubDate>
 		<dc:creator><![CDATA[Digitalmind]]></dc:creator>
-		<guid isPermaLink="false">http://blogster.digitalmind.ch/wp-content/uploads/2014/12/random_leaves.jpg</guid>
+		<guid isPermaLink="false">http://bloggster.digitalmind.ch/wp-content/uploads/2014/12/random_leaves.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -114,7 +114,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://blogster.digitalmind.ch/wp-content/uploads/2014/12/random_leaves.jpg</wp:attachment_url>
+		<wp:attachment_url>http://bloggster.digitalmind.ch/wp-content/uploads/2014/12/random_leaves.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2014/12/random_leaves.jpg]]></wp:meta_value>
@@ -126,10 +126,10 @@
 	</item>
 	<item>
 		<title>Eden Asset Library</title>
-		<link>http://blogster.digitalmind.ch/?attachment_id=12</link>
+		<link>http://bloggster.digitalmind.ch/?attachment_id=12</link>
 		<pubDate>Tue, 16 Dec 2014 12:36:37 +0000</pubDate>
 		<dc:creator><![CDATA[Digitalmind]]></dc:creator>
-		<guid isPermaLink="false">http://blogster.digitalmind.ch/wp-content/uploads/2014/12/scottwills_woodstump.jpg</guid>
+		<guid isPermaLink="false">http://bloggster.digitalmind.ch/wp-content/uploads/2014/12/scottwills_woodstump.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -145,7 +145,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://blogster.digitalmind.ch/wp-content/uploads/2014/12/scottwills_woodstump.jpg</wp:attachment_url>
+		<wp:attachment_url>http://bloggster.digitalmind.ch/wp-content/uploads/2014/12/scottwills_woodstump.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2014/12/scottwills_woodstump.jpg]]></wp:meta_value>
@@ -157,10 +157,10 @@
 	</item>
 	<item>
 		<title>Eden Asset Library</title>
-		<link>http://blogster.digitalmind.ch/?attachment_id=13</link>
+		<link>http://bloggster.digitalmind.ch/?attachment_id=13</link>
 		<pubDate>Tue, 16 Dec 2014 12:36:44 +0000</pubDate>
 		<dc:creator><![CDATA[Digitalmind]]></dc:creator>
-		<guid isPermaLink="false">http://blogster.digitalmind.ch/wp-content/uploads/2014/12/scottwills_treetrunk.jpg</guid>
+		<guid isPermaLink="false">http://bloggster.digitalmind.ch/wp-content/uploads/2014/12/scottwills_treetrunk.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -176,7 +176,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://blogster.digitalmind.ch/wp-content/uploads/2014/12/scottwills_treetrunk.jpg</wp:attachment_url>
+		<wp:attachment_url>http://bloggster.digitalmind.ch/wp-content/uploads/2014/12/scottwills_treetrunk.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2014/12/scottwills_treetrunk.jpg]]></wp:meta_value>
@@ -188,10 +188,10 @@
 	</item>
 	<item>
 		<title>Eden Asset Library</title>
-		<link>http://blogster.digitalmind.ch/?attachment_id=14</link>
+		<link>http://bloggster.digitalmind.ch/?attachment_id=14</link>
 		<pubDate>Tue, 16 Dec 2014 12:36:50 +0000</pubDate>
 		<dc:creator><![CDATA[Digitalmind]]></dc:creator>
-		<guid isPermaLink="false">http://blogster.digitalmind.ch/wp-content/uploads/2014/12/scottwills_river1.jpg</guid>
+		<guid isPermaLink="false">http://bloggster.digitalmind.ch/wp-content/uploads/2014/12/scottwills_river1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -207,7 +207,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://blogster.digitalmind.ch/wp-content/uploads/2014/12/scottwills_river1.jpg</wp:attachment_url>
+		<wp:attachment_url>http://bloggster.digitalmind.ch/wp-content/uploads/2014/12/scottwills_river1.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2014/12/scottwills_river1.jpg]]></wp:meta_value>
@@ -219,10 +219,10 @@
 	</item>
 	<item>
 		<title>Eden Asset Library</title>
-		<link>http://blogster.digitalmind.ch/?attachment_id=15</link>
+		<link>http://bloggster.digitalmind.ch/?attachment_id=15</link>
 		<pubDate>Tue, 16 Dec 2014 12:36:52 +0000</pubDate>
 		<dc:creator><![CDATA[Digitalmind]]></dc:creator>
-		<guid isPermaLink="false">http://blogster.digitalmind.ch/wp-content/uploads/2014/12/scottwills_trees.jpg</guid>
+		<guid isPermaLink="false">http://bloggster.digitalmind.ch/wp-content/uploads/2014/12/scottwills_trees.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -238,7 +238,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://blogster.digitalmind.ch/wp-content/uploads/2014/12/scottwills_trees.jpg</wp:attachment_url>
+		<wp:attachment_url>http://bloggster.digitalmind.ch/wp-content/uploads/2014/12/scottwills_trees.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2014/12/scottwills_trees.jpg]]></wp:meta_value>
@@ -250,10 +250,10 @@
 	</item>
 	<item>
 		<title>Eden Asset Library</title>
-		<link>http://blogster.digitalmind.ch/?attachment_id=16</link>
+		<link>http://bloggster.digitalmind.ch/?attachment_id=16</link>
 		<pubDate>Tue, 16 Dec 2014 12:36:53 +0000</pubDate>
 		<dc:creator><![CDATA[Digitalmind]]></dc:creator>
-		<guid isPermaLink="false">http://blogster.digitalmind.ch/wp-content/uploads/2014/12/scottwills_pinecone.jpg</guid>
+		<guid isPermaLink="false">http://bloggster.digitalmind.ch/wp-content/uploads/2014/12/scottwills_pinecone.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -269,7 +269,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://blogster.digitalmind.ch/wp-content/uploads/2014/12/scottwills_pinecone.jpg</wp:attachment_url>
+		<wp:attachment_url>http://bloggster.digitalmind.ch/wp-content/uploads/2014/12/scottwills_pinecone.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2014/12/scottwills_pinecone.jpg]]></wp:meta_value>
@@ -281,10 +281,10 @@
 	</item>
 	<item>
 		<title>Eden Asset Library</title>
-		<link>http://blogster.digitalmind.ch/?attachment_id=17</link>
+		<link>http://bloggster.digitalmind.ch/?attachment_id=17</link>
 		<pubDate>Tue, 16 Dec 2014 12:36:56 +0000</pubDate>
 		<dc:creator><![CDATA[Digitalmind]]></dc:creator>
-		<guid isPermaLink="false">http://blogster.digitalmind.ch/wp-content/uploads/2014/12/scottwills_leafbug.jpg</guid>
+		<guid isPermaLink="false">http://bloggster.digitalmind.ch/wp-content/uploads/2014/12/scottwills_leafbug.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -300,7 +300,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://blogster.digitalmind.ch/wp-content/uploads/2014/12/scottwills_leafbug.jpg</wp:attachment_url>
+		<wp:attachment_url>http://bloggster.digitalmind.ch/wp-content/uploads/2014/12/scottwills_leafbug.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2014/12/scottwills_leafbug.jpg]]></wp:meta_value>
@@ -312,10 +312,10 @@
 	</item>
 	<item>
 		<title>Eden Asset Library</title>
-		<link>http://blogster.digitalmind.ch/?attachment_id=18</link>
+		<link>http://bloggster.digitalmind.ch/?attachment_id=18</link>
 		<pubDate>Tue, 16 Dec 2014 12:36:58 +0000</pubDate>
 		<dc:creator><![CDATA[Digitalmind]]></dc:creator>
-		<guid isPermaLink="false">http://blogster.digitalmind.ch/wp-content/uploads/2014/12/scottwills_mill.jpg</guid>
+		<guid isPermaLink="false">http://bloggster.digitalmind.ch/wp-content/uploads/2014/12/scottwills_mill.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -331,7 +331,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://blogster.digitalmind.ch/wp-content/uploads/2014/12/scottwills_mill.jpg</wp:attachment_url>
+		<wp:attachment_url>http://bloggster.digitalmind.ch/wp-content/uploads/2014/12/scottwills_mill.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2014/12/scottwills_mill.jpg]]></wp:meta_value>
@@ -343,10 +343,10 @@
 	</item>
 	<item>
 		<title>Eden Asset Library</title>
-		<link>http://blogster.digitalmind.ch/?attachment_id=19</link>
+		<link>http://bloggster.digitalmind.ch/?attachment_id=19</link>
 		<pubDate>Tue, 16 Dec 2014 12:36:59 +0000</pubDate>
 		<dc:creator><![CDATA[Digitalmind]]></dc:creator>
-		<guid isPermaLink="false">http://blogster.digitalmind.ch/wp-content/uploads/2014/12/scottwills_mossytree.jpg</guid>
+		<guid isPermaLink="false">http://bloggster.digitalmind.ch/wp-content/uploads/2014/12/scottwills_mossytree.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -362,7 +362,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://blogster.digitalmind.ch/wp-content/uploads/2014/12/scottwills_mossytree.jpg</wp:attachment_url>
+		<wp:attachment_url>http://bloggster.digitalmind.ch/wp-content/uploads/2014/12/scottwills_mossytree.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2014/12/scottwills_mossytree.jpg]]></wp:meta_value>
@@ -374,10 +374,10 @@
 	</item>
 	<item>
 		<title>Eden Asset Library</title>
-		<link>http://blogster.digitalmind.ch/?attachment_id=20</link>
+		<link>http://bloggster.digitalmind.ch/?attachment_id=20</link>
 		<pubDate>Tue, 16 Dec 2014 12:37:01 +0000</pubDate>
 		<dc:creator><![CDATA[Digitalmind]]></dc:creator>
-		<guid isPermaLink="false">http://blogster.digitalmind.ch/wp-content/uploads/2014/12/scottwills_gunpowder.jpg</guid>
+		<guid isPermaLink="false">http://bloggster.digitalmind.ch/wp-content/uploads/2014/12/scottwills_gunpowder.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -393,7 +393,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://blogster.digitalmind.ch/wp-content/uploads/2014/12/scottwills_gunpowder.jpg</wp:attachment_url>
+		<wp:attachment_url>http://bloggster.digitalmind.ch/wp-content/uploads/2014/12/scottwills_gunpowder.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2014/12/scottwills_gunpowder.jpg]]></wp:meta_value>
@@ -405,10 +405,10 @@
 	</item>
 	<item>
 		<title>Eden Asset Library</title>
-		<link>http://blogster.digitalmind.ch/?attachment_id=21</link>
+		<link>http://bloggster.digitalmind.ch/?attachment_id=21</link>
 		<pubDate>Tue, 16 Dec 2014 12:37:04 +0000</pubDate>
 		<dc:creator><![CDATA[Digitalmind]]></dc:creator>
-		<guid isPermaLink="false">http://blogster.digitalmind.ch/wp-content/uploads/2014/12/scottwills_farmhouse.jpg</guid>
+		<guid isPermaLink="false">http://bloggster.digitalmind.ch/wp-content/uploads/2014/12/scottwills_farmhouse.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -424,7 +424,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://blogster.digitalmind.ch/wp-content/uploads/2014/12/scottwills_farmhouse.jpg</wp:attachment_url>
+		<wp:attachment_url>http://bloggster.digitalmind.ch/wp-content/uploads/2014/12/scottwills_farmhouse.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2014/12/scottwills_farmhouse.jpg]]></wp:meta_value>
@@ -436,10 +436,10 @@
 	</item>
 	<item>
 		<title>Eden Asset Library</title>
-		<link>http://blogster.digitalmind.ch/?attachment_id=22</link>
+		<link>http://bloggster.digitalmind.ch/?attachment_id=22</link>
 		<pubDate>Tue, 16 Dec 2014 12:37:10 +0000</pubDate>
 		<dc:creator><![CDATA[Digitalmind]]></dc:creator>
-		<guid isPermaLink="false">http://blogster.digitalmind.ch/wp-content/uploads/2014/12/cyan_tree.jpg</guid>
+		<guid isPermaLink="false">http://bloggster.digitalmind.ch/wp-content/uploads/2014/12/cyan_tree.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -455,7 +455,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://blogster.digitalmind.ch/wp-content/uploads/2014/12/cyan_tree.jpg</wp:attachment_url>
+		<wp:attachment_url>http://bloggster.digitalmind.ch/wp-content/uploads/2014/12/cyan_tree.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2014/12/cyan_tree.jpg]]></wp:meta_value>
@@ -467,10 +467,10 @@
 	</item>
 	<item>
 		<title>Eden Asset Library</title>
-		<link>http://blogster.digitalmind.ch/?attachment_id=23</link>
+		<link>http://bloggster.digitalmind.ch/?attachment_id=23</link>
 		<pubDate>Tue, 16 Dec 2014 12:37:11 +0000</pubDate>
 		<dc:creator><![CDATA[Digitalmind]]></dc:creator>
-		<guid isPermaLink="false">http://blogster.digitalmind.ch/wp-content/uploads/2014/12/kariminal_rider.jpg</guid>
+		<guid isPermaLink="false">http://bloggster.digitalmind.ch/wp-content/uploads/2014/12/kariminal_rider.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -486,7 +486,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://blogster.digitalmind.ch/wp-content/uploads/2014/12/kariminal_rider.jpg</wp:attachment_url>
+		<wp:attachment_url>http://bloggster.digitalmind.ch/wp-content/uploads/2014/12/kariminal_rider.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2014/12/kariminal_rider.jpg]]></wp:meta_value>
@@ -498,10 +498,10 @@
 	</item>
 	<item>
 		<title>Eden Asset Library</title>
-		<link>http://blogster.digitalmind.ch/?attachment_id=24</link>
+		<link>http://bloggster.digitalmind.ch/?attachment_id=24</link>
 		<pubDate>Tue, 16 Dec 2014 12:37:12 +0000</pubDate>
 		<dc:creator><![CDATA[Digitalmind]]></dc:creator>
-		<guid isPermaLink="false">http://blogster.digitalmind.ch/wp-content/uploads/2014/12/scottwills_enchantedcreek.jpg</guid>
+		<guid isPermaLink="false">http://bloggster.digitalmind.ch/wp-content/uploads/2014/12/scottwills_enchantedcreek.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -517,7 +517,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://blogster.digitalmind.ch/wp-content/uploads/2014/12/scottwills_enchantedcreek.jpg</wp:attachment_url>
+		<wp:attachment_url>http://bloggster.digitalmind.ch/wp-content/uploads/2014/12/scottwills_enchantedcreek.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2014/12/scottwills_enchantedcreek.jpg]]></wp:meta_value>
@@ -529,10 +529,10 @@
 	</item>
 	<item>
 		<title>photo-1414788020357-3690cfdab669</title>
-		<link>http://blogster.digitalmind.ch/?attachment_id=28</link>
+		<link>http://bloggster.digitalmind.ch/?attachment_id=28</link>
 		<pubDate>Tue, 16 Dec 2014 16:49:43 +0000</pubDate>
 		<dc:creator><![CDATA[Myriam]]></dc:creator>
-		<guid isPermaLink="false">http://blogster.digitalmind.ch/wp-content/uploads/2014/12/photo-1414788020357-3690cfdab669.jpg</guid>
+		<guid isPermaLink="false">http://bloggster.digitalmind.ch/wp-content/uploads/2014/12/photo-1414788020357-3690cfdab669.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -548,7 +548,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://blogster.digitalmind.ch/wp-content/uploads/2014/12/photo-1414788020357-3690cfdab669.jpg</wp:attachment_url>
+		<wp:attachment_url>http://bloggster.digitalmind.ch/wp-content/uploads/2014/12/photo-1414788020357-3690cfdab669.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2014/12/photo-1414788020357-3690cfdab669.jpg]]></wp:meta_value>
@@ -560,10 +560,10 @@
 	</item>
 	<item>
 		<title>1</title>
-		<link>http://blogster.digitalmind.ch/?attachment_id=34</link>
+		<link>http://bloggster.digitalmind.ch/?attachment_id=34</link>
 		<pubDate>Fri, 19 Dec 2014 13:49:00 +0000</pubDate>
 		<dc:creator><![CDATA[Myriam]]></dc:creator>
-		<guid isPermaLink="false">http://blogster.digitalmind.ch/wp-content/uploads/2014/12/1.jpg</guid>
+		<guid isPermaLink="false">http://bloggster.digitalmind.ch/wp-content/uploads/2014/12/1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -579,7 +579,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://blogster.digitalmind.ch/wp-content/uploads/2014/12/1.jpg</wp:attachment_url>
+		<wp:attachment_url>http://bloggster.digitalmind.ch/wp-content/uploads/2014/12/1.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2014/12/1.jpg]]></wp:meta_value>
@@ -591,10 +591,10 @@
 	</item>
 	<item>
 		<title>2</title>
-		<link>http://blogster.digitalmind.ch/?attachment_id=36</link>
+		<link>http://bloggster.digitalmind.ch/?attachment_id=36</link>
 		<pubDate>Fri, 19 Dec 2014 14:35:59 +0000</pubDate>
 		<dc:creator><![CDATA[Myriam]]></dc:creator>
-		<guid isPermaLink="false">http://blogster.digitalmind.ch/wp-content/uploads/2014/12/2.jpg</guid>
+		<guid isPermaLink="false">http://bloggster.digitalmind.ch/wp-content/uploads/2014/12/2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -610,7 +610,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://blogster.digitalmind.ch/wp-content/uploads/2014/12/2.jpg</wp:attachment_url>
+		<wp:attachment_url>http://bloggster.digitalmind.ch/wp-content/uploads/2014/12/2.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2014/12/2.jpg]]></wp:meta_value>
@@ -622,10 +622,10 @@
 	</item>
 	<item>
 		<title>3</title>
-		<link>http://blogster.digitalmind.ch/?attachment_id=41</link>
+		<link>http://bloggster.digitalmind.ch/?attachment_id=41</link>
 		<pubDate>Fri, 19 Dec 2014 14:47:03 +0000</pubDate>
 		<dc:creator><![CDATA[Myriam]]></dc:creator>
-		<guid isPermaLink="false">http://blogster.digitalmind.ch/wp-content/uploads/2014/12/3.jpg</guid>
+		<guid isPermaLink="false">http://bloggster.digitalmind.ch/wp-content/uploads/2014/12/3.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -641,7 +641,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://blogster.digitalmind.ch/wp-content/uploads/2014/12/3.jpg</wp:attachment_url>
+		<wp:attachment_url>http://bloggster.digitalmind.ch/wp-content/uploads/2014/12/3.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2014/12/3.jpg]]></wp:meta_value>
@@ -653,10 +653,10 @@
 	</item>
 	<item>
 		<title>4</title>
-		<link>http://blogster.digitalmind.ch/?attachment_id=44</link>
+		<link>http://bloggster.digitalmind.ch/?attachment_id=44</link>
 		<pubDate>Fri, 19 Dec 2014 14:48:11 +0000</pubDate>
 		<dc:creator><![CDATA[Myriam]]></dc:creator>
-		<guid isPermaLink="false">http://blogster.digitalmind.ch/wp-content/uploads/2014/12/4.jpg</guid>
+		<guid isPermaLink="false">http://bloggster.digitalmind.ch/wp-content/uploads/2014/12/4.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -672,7 +672,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://blogster.digitalmind.ch/wp-content/uploads/2014/12/4.jpg</wp:attachment_url>
+		<wp:attachment_url>http://bloggster.digitalmind.ch/wp-content/uploads/2014/12/4.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2014/12/4.jpg]]></wp:meta_value>
@@ -684,10 +684,10 @@
 	</item>
 	<item>
 		<title>5</title>
-		<link>http://blogster.digitalmind.ch/?attachment_id=47</link>
+		<link>http://bloggster.digitalmind.ch/?attachment_id=47</link>
 		<pubDate>Fri, 19 Dec 2014 14:49:32 +0000</pubDate>
 		<dc:creator><![CDATA[Myriam]]></dc:creator>
-		<guid isPermaLink="false">http://blogster.digitalmind.ch/wp-content/uploads/2014/12/5.jpg</guid>
+		<guid isPermaLink="false">http://bloggster.digitalmind.ch/wp-content/uploads/2014/12/5.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -703,7 +703,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://blogster.digitalmind.ch/wp-content/uploads/2014/12/5.jpg</wp:attachment_url>
+		<wp:attachment_url>http://bloggster.digitalmind.ch/wp-content/uploads/2014/12/5.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2014/12/5.jpg]]></wp:meta_value>
@@ -715,10 +715,10 @@
 	</item>
 	<item>
 		<title>6</title>
-		<link>http://blogster.digitalmind.ch/?attachment_id=50</link>
+		<link>http://bloggster.digitalmind.ch/?attachment_id=50</link>
 		<pubDate>Fri, 19 Dec 2014 14:51:11 +0000</pubDate>
 		<dc:creator><![CDATA[Myriam]]></dc:creator>
-		<guid isPermaLink="false">http://blogster.digitalmind.ch/wp-content/uploads/2014/12/6.jpg</guid>
+		<guid isPermaLink="false">http://bloggster.digitalmind.ch/wp-content/uploads/2014/12/6.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -734,7 +734,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://blogster.digitalmind.ch/wp-content/uploads/2014/12/6.jpg</wp:attachment_url>
+		<wp:attachment_url>http://bloggster.digitalmind.ch/wp-content/uploads/2014/12/6.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2014/12/6.jpg]]></wp:meta_value>
@@ -746,10 +746,10 @@
 	</item>
 	<item>
 		<title>7</title>
-		<link>http://blogster.digitalmind.ch/?attachment_id=53</link>
+		<link>http://bloggster.digitalmind.ch/?attachment_id=53</link>
 		<pubDate>Fri, 19 Dec 2014 14:53:17 +0000</pubDate>
 		<dc:creator><![CDATA[Myriam]]></dc:creator>
-		<guid isPermaLink="false">http://blogster.digitalmind.ch/wp-content/uploads/2014/12/7.jpg</guid>
+		<guid isPermaLink="false">http://bloggster.digitalmind.ch/wp-content/uploads/2014/12/7.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -765,7 +765,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://blogster.digitalmind.ch/wp-content/uploads/2014/12/7.jpg</wp:attachment_url>
+		<wp:attachment_url>http://bloggster.digitalmind.ch/wp-content/uploads/2014/12/7.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2014/12/7.jpg]]></wp:meta_value>
@@ -777,10 +777,10 @@
 	</item>
 	<item>
 		<title>8</title>
-		<link>http://blogster.digitalmind.ch/?attachment_id=56</link>
+		<link>http://bloggster.digitalmind.ch/?attachment_id=56</link>
 		<pubDate>Fri, 19 Dec 2014 14:55:00 +0000</pubDate>
 		<dc:creator><![CDATA[Myriam]]></dc:creator>
-		<guid isPermaLink="false">http://blogster.digitalmind.ch/wp-content/uploads/2014/12/8.jpg</guid>
+		<guid isPermaLink="false">http://bloggster.digitalmind.ch/wp-content/uploads/2014/12/8.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -796,7 +796,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://blogster.digitalmind.ch/wp-content/uploads/2014/12/8.jpg</wp:attachment_url>
+		<wp:attachment_url>http://bloggster.digitalmind.ch/wp-content/uploads/2014/12/8.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2014/12/8.jpg]]></wp:meta_value>
@@ -808,10 +808,10 @@
 	</item>
 	<item>
 		<title>9</title>
-		<link>http://blogster.digitalmind.ch/?attachment_id=59</link>
+		<link>http://bloggster.digitalmind.ch/?attachment_id=59</link>
 		<pubDate>Fri, 19 Dec 2014 14:56:53 +0000</pubDate>
 		<dc:creator><![CDATA[Myriam]]></dc:creator>
-		<guid isPermaLink="false">http://blogster.digitalmind.ch/wp-content/uploads/2014/12/9.jpg</guid>
+		<guid isPermaLink="false">http://bloggster.digitalmind.ch/wp-content/uploads/2014/12/9.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -827,7 +827,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://blogster.digitalmind.ch/wp-content/uploads/2014/12/9.jpg</wp:attachment_url>
+		<wp:attachment_url>http://bloggster.digitalmind.ch/wp-content/uploads/2014/12/9.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2014/12/9.jpg]]></wp:meta_value>
@@ -839,10 +839,10 @@
 	</item>
 	<item>
 		<title>10</title>
-		<link>http://blogster.digitalmind.ch/?attachment_id=63</link>
+		<link>http://bloggster.digitalmind.ch/?attachment_id=63</link>
 		<pubDate>Fri, 19 Dec 2014 14:58:13 +0000</pubDate>
 		<dc:creator><![CDATA[Myriam]]></dc:creator>
-		<guid isPermaLink="false">http://blogster.digitalmind.ch/wp-content/uploads/2014/12/10.jpg</guid>
+		<guid isPermaLink="false">http://bloggster.digitalmind.ch/wp-content/uploads/2014/12/10.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -858,7 +858,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://blogster.digitalmind.ch/wp-content/uploads/2014/12/10.jpg</wp:attachment_url>
+		<wp:attachment_url>http://bloggster.digitalmind.ch/wp-content/uploads/2014/12/10.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2014/12/10.jpg]]></wp:meta_value>
@@ -870,10 +870,10 @@
 	</item>
 	<item>
 		<title>11</title>
-		<link>http://blogster.digitalmind.ch/?attachment_id=67</link>
+		<link>http://bloggster.digitalmind.ch/?attachment_id=67</link>
 		<pubDate>Fri, 19 Dec 2014 15:00:14 +0000</pubDate>
 		<dc:creator><![CDATA[Myriam]]></dc:creator>
-		<guid isPermaLink="false">http://blogster.digitalmind.ch/wp-content/uploads/2014/12/11.jpg</guid>
+		<guid isPermaLink="false">http://bloggster.digitalmind.ch/wp-content/uploads/2014/12/11.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -889,7 +889,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://blogster.digitalmind.ch/wp-content/uploads/2014/12/11.jpg</wp:attachment_url>
+		<wp:attachment_url>http://bloggster.digitalmind.ch/wp-content/uploads/2014/12/11.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2014/12/11.jpg]]></wp:meta_value>
@@ -901,10 +901,10 @@
 	</item>
 	<item>
 		<title>12</title>
-		<link>http://blogster.digitalmind.ch/?attachment_id=70</link>
+		<link>http://bloggster.digitalmind.ch/?attachment_id=70</link>
 		<pubDate>Fri, 19 Dec 2014 15:01:50 +0000</pubDate>
 		<dc:creator><![CDATA[Myriam]]></dc:creator>
-		<guid isPermaLink="false">http://blogster.digitalmind.ch/wp-content/uploads/2014/12/12.jpg</guid>
+		<guid isPermaLink="false">http://bloggster.digitalmind.ch/wp-content/uploads/2014/12/12.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[desc]]></content:encoded>
 		<excerpt:encoded><![CDATA[caption]]></excerpt:encoded>
@@ -920,7 +920,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://blogster.digitalmind.ch/wp-content/uploads/2014/12/12.jpg</wp:attachment_url>
+		<wp:attachment_url>http://bloggster.digitalmind.ch/wp-content/uploads/2014/12/12.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2014/12/12.jpg]]></wp:meta_value>
@@ -936,10 +936,10 @@
 	</item>
 	<item>
 		<title>13</title>
-		<link>http://blogster.digitalmind.ch/?attachment_id=73</link>
+		<link>http://bloggster.digitalmind.ch/?attachment_id=73</link>
 		<pubDate>Fri, 19 Dec 2014 15:03:51 +0000</pubDate>
 		<dc:creator><![CDATA[Myriam]]></dc:creator>
-		<guid isPermaLink="false">http://blogster.digitalmind.ch/wp-content/uploads/2014/12/13.jpg</guid>
+		<guid isPermaLink="false">http://bloggster.digitalmind.ch/wp-content/uploads/2014/12/13.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -955,7 +955,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://blogster.digitalmind.ch/wp-content/uploads/2014/12/13.jpg</wp:attachment_url>
+		<wp:attachment_url>http://bloggster.digitalmind.ch/wp-content/uploads/2014/12/13.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2014/12/13.jpg]]></wp:meta_value>
@@ -967,10 +967,10 @@
 	</item>
 	<item>
 		<title>14</title>
-		<link>http://blogster.digitalmind.ch/?attachment_id=76</link>
+		<link>http://bloggster.digitalmind.ch/?attachment_id=76</link>
 		<pubDate>Fri, 19 Dec 2014 15:04:32 +0000</pubDate>
 		<dc:creator><![CDATA[Myriam]]></dc:creator>
-		<guid isPermaLink="false">http://blogster.digitalmind.ch/wp-content/uploads/2014/12/14.jpg</guid>
+		<guid isPermaLink="false">http://bloggster.digitalmind.ch/wp-content/uploads/2014/12/14.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -986,7 +986,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://blogster.digitalmind.ch/wp-content/uploads/2014/12/14.jpg</wp:attachment_url>
+		<wp:attachment_url>http://bloggster.digitalmind.ch/wp-content/uploads/2014/12/14.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2014/12/14.jpg]]></wp:meta_value>
@@ -998,10 +998,10 @@
 	</item>
 	<item>
 		<title>15</title>
-		<link>http://blogster.digitalmind.ch/?attachment_id=79</link>
+		<link>http://bloggster.digitalmind.ch/?attachment_id=79</link>
 		<pubDate>Fri, 19 Dec 2014 15:05:47 +0000</pubDate>
 		<dc:creator><![CDATA[Myriam]]></dc:creator>
-		<guid isPermaLink="false">http://blogster.digitalmind.ch/wp-content/uploads/2014/12/15.jpg</guid>
+		<guid isPermaLink="false">http://bloggster.digitalmind.ch/wp-content/uploads/2014/12/15.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1017,7 +1017,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://blogster.digitalmind.ch/wp-content/uploads/2014/12/15.jpg</wp:attachment_url>
+		<wp:attachment_url>http://bloggster.digitalmind.ch/wp-content/uploads/2014/12/15.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2014/12/15.jpg]]></wp:meta_value>
@@ -1029,10 +1029,10 @@
 	</item>
 	<item>
 		<title>16</title>
-		<link>http://blogster.digitalmind.ch/?attachment_id=82</link>
+		<link>http://bloggster.digitalmind.ch/?attachment_id=82</link>
 		<pubDate>Fri, 19 Dec 2014 15:07:20 +0000</pubDate>
 		<dc:creator><![CDATA[Myriam]]></dc:creator>
-		<guid isPermaLink="false">http://blogster.digitalmind.ch/wp-content/uploads/2014/12/16.jpg</guid>
+		<guid isPermaLink="false">http://bloggster.digitalmind.ch/wp-content/uploads/2014/12/16.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1048,7 +1048,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://blogster.digitalmind.ch/wp-content/uploads/2014/12/16.jpg</wp:attachment_url>
+		<wp:attachment_url>http://bloggster.digitalmind.ch/wp-content/uploads/2014/12/16.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2014/12/16.jpg]]></wp:meta_value>
@@ -1060,10 +1060,10 @@
 	</item>
 	<item>
 		<title>post_sidebar</title>
-		<link>http://blogster.digitalmind.ch/?attachment_id=102</link>
+		<link>http://bloggster.digitalmind.ch/?attachment_id=102</link>
 		<pubDate>Fri, 19 Dec 2014 15:39:50 +0000</pubDate>
 		<dc:creator><![CDATA[Myriam]]></dc:creator>
-		<guid isPermaLink="false">http://blogster.digitalmind.ch/wp-content/uploads/2014/12/post_sidebar.png</guid>
+		<guid isPermaLink="false">http://bloggster.digitalmind.ch/wp-content/uploads/2014/12/post_sidebar.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1079,7 +1079,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://blogster.digitalmind.ch/wp-content/uploads/2014/12/post_sidebar.png</wp:attachment_url>
+		<wp:attachment_url>http://bloggster.digitalmind.ch/wp-content/uploads/2014/12/post_sidebar.png</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2014/12/post_sidebar.png]]></wp:meta_value>
@@ -1091,10 +1091,10 @@
 	</item>
 	<item>
 		<title>post_fullwidth</title>
-		<link>http://blogster.digitalmind.ch/?attachment_id=103</link>
+		<link>http://bloggster.digitalmind.ch/?attachment_id=103</link>
 		<pubDate>Fri, 19 Dec 2014 15:41:44 +0000</pubDate>
 		<dc:creator><![CDATA[Myriam]]></dc:creator>
-		<guid isPermaLink="false">http://blogster.digitalmind.ch/wp-content/uploads/2014/12/post_fullwidth.png</guid>
+		<guid isPermaLink="false">http://bloggster.digitalmind.ch/wp-content/uploads/2014/12/post_fullwidth.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1110,7 +1110,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://blogster.digitalmind.ch/wp-content/uploads/2014/12/post_fullwidth.png</wp:attachment_url>
+		<wp:attachment_url>http://bloggster.digitalmind.ch/wp-content/uploads/2014/12/post_fullwidth.png</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2014/12/post_fullwidth.png]]></wp:meta_value>
@@ -1122,10 +1122,10 @@
 	</item>
 	<item>
 		<title>page_sidebar</title>
-		<link>http://blogster.digitalmind.ch/?attachment_id=104</link>
+		<link>http://bloggster.digitalmind.ch/?attachment_id=104</link>
 		<pubDate>Fri, 19 Dec 2014 15:43:04 +0000</pubDate>
 		<dc:creator><![CDATA[Myriam]]></dc:creator>
-		<guid isPermaLink="false">http://blogster.digitalmind.ch/wp-content/uploads/2014/12/page_sidebar.png</guid>
+		<guid isPermaLink="false">http://bloggster.digitalmind.ch/wp-content/uploads/2014/12/page_sidebar.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1141,7 +1141,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://blogster.digitalmind.ch/wp-content/uploads/2014/12/page_sidebar.png</wp:attachment_url>
+		<wp:attachment_url>http://bloggster.digitalmind.ch/wp-content/uploads/2014/12/page_sidebar.png</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2014/12/page_sidebar.png]]></wp:meta_value>
@@ -1153,10 +1153,10 @@
 	</item>
 	<item>
 		<title>page_fullwidth</title>
-		<link>http://blogster.digitalmind.ch/?attachment_id=105</link>
+		<link>http://bloggster.digitalmind.ch/?attachment_id=105</link>
 		<pubDate>Fri, 19 Dec 2014 15:44:35 +0000</pubDate>
 		<dc:creator><![CDATA[Myriam]]></dc:creator>
-		<guid isPermaLink="false">http://blogster.digitalmind.ch/wp-content/uploads/2014/12/page_fullwidth.png</guid>
+		<guid isPermaLink="false">http://bloggster.digitalmind.ch/wp-content/uploads/2014/12/page_fullwidth.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1172,7 +1172,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://blogster.digitalmind.ch/wp-content/uploads/2014/12/page_fullwidth.png</wp:attachment_url>
+		<wp:attachment_url>http://bloggster.digitalmind.ch/wp-content/uploads/2014/12/page_fullwidth.png</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2014/12/page_fullwidth.png]]></wp:meta_value>
@@ -1184,10 +1184,10 @@
 	</item>
 	<item>
 		<title>page_archives</title>
-		<link>http://blogster.digitalmind.ch/?attachment_id=106</link>
+		<link>http://bloggster.digitalmind.ch/?attachment_id=106</link>
 		<pubDate>Fri, 19 Dec 2014 15:45:40 +0000</pubDate>
 		<dc:creator><![CDATA[Myriam]]></dc:creator>
-		<guid isPermaLink="false">http://blogster.digitalmind.ch/wp-content/uploads/2014/12/page_archives.png</guid>
+		<guid isPermaLink="false">http://bloggster.digitalmind.ch/wp-content/uploads/2014/12/page_archives.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1203,7 +1203,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://blogster.digitalmind.ch/wp-content/uploads/2014/12/page_archives.png</wp:attachment_url>
+		<wp:attachment_url>http://bloggster.digitalmind.ch/wp-content/uploads/2014/12/page_archives.png</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2014/12/page_archives.png]]></wp:meta_value>
@@ -1215,10 +1215,10 @@
 	</item>
 	<item>
 		<title>ocean</title>
-		<link>http://blogster.digitalmind.ch/?attachment_id=121</link>
+		<link>http://bloggster.digitalmind.ch/?attachment_id=121</link>
 		<pubDate>Tue, 03 Feb 2015 11:04:17 +0000</pubDate>
 		<dc:creator><![CDATA[Myriam]]></dc:creator>
-		<guid isPermaLink="false">http://blogster.digitalmind.ch/wp-content/uploads/2015/02/ocean.jpg</guid>
+		<guid isPermaLink="false">http://bloggster.digitalmind.ch/wp-content/uploads/2015/02/ocean.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1234,7 +1234,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://blogster.digitalmind.ch/wp-content/uploads/2015/02/ocean.jpg</wp:attachment_url>
+		<wp:attachment_url>http://bloggster.digitalmind.ch/wp-content/uploads/2015/02/ocean.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2015/02/ocean.jpg]]></wp:meta_value>
@@ -1246,10 +1246,10 @@
 	</item>
 	<item>
 		<title>coast</title>
-		<link>http://blogster.digitalmind.ch/?attachment_id=123</link>
+		<link>http://bloggster.digitalmind.ch/?attachment_id=123</link>
 		<pubDate>Tue, 03 Feb 2015 11:10:43 +0000</pubDate>
 		<dc:creator><![CDATA[Myriam]]></dc:creator>
-		<guid isPermaLink="false">http://blogster.digitalmind.ch/wp-content/uploads/2015/02/coast.jpg</guid>
+		<guid isPermaLink="false">http://bloggster.digitalmind.ch/wp-content/uploads/2015/02/coast.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1265,7 +1265,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://blogster.digitalmind.ch/wp-content/uploads/2015/02/coast.jpg</wp:attachment_url>
+		<wp:attachment_url>http://bloggster.digitalmind.ch/wp-content/uploads/2015/02/coast.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2015/02/coast.jpg]]></wp:meta_value>
@@ -1277,10 +1277,10 @@
 	</item>
 	<item>
 		<title>blossom</title>
-		<link>http://blogster.digitalmind.ch/?attachment_id=127</link>
+		<link>http://bloggster.digitalmind.ch/?attachment_id=127</link>
 		<pubDate>Tue, 03 Feb 2015 12:44:32 +0000</pubDate>
 		<dc:creator><![CDATA[Myriam]]></dc:creator>
-		<guid isPermaLink="false">http://blogster.digitalmind.ch/wp-content/uploads/2015/02/blossom.jpg</guid>
+		<guid isPermaLink="false">http://bloggster.digitalmind.ch/wp-content/uploads/2015/02/blossom.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1296,7 +1296,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://blogster.digitalmind.ch/wp-content/uploads/2015/02/blossom.jpg</wp:attachment_url>
+		<wp:attachment_url>http://bloggster.digitalmind.ch/wp-content/uploads/2015/02/blossom.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2015/02/blossom.jpg]]></wp:meta_value>
@@ -1308,10 +1308,10 @@
 	</item>
 	<item>
 		<title>Archives of Old Times</title>
-		<link>http://blogster.digitalmind.ch/?page_id=32</link>
+		<link>http://bloggster.digitalmind.ch/?page_id=32</link>
 		<pubDate>Fri, 19 Dec 2014 14:38:06 +0000</pubDate>
 		<dc:creator><![CDATA[Myriam]]></dc:creator>
-		<guid isPermaLink="false">http://blogster.digitalmind.ch/?page_id=32</guid>
+		<guid isPermaLink="false">http://bloggster.digitalmind.ch/?page_id=32</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1342,10 +1342,10 @@
 	</item>
 	<item>
 		<title>Moment Freezer</title>
-		<link>http://blogster.digitalmind.ch/?page_id=62</link>
+		<link>http://bloggster.digitalmind.ch/?page_id=62</link>
 		<pubDate>Fri, 19 Dec 2014 14:59:04 +0000</pubDate>
 		<dc:creator><![CDATA[Myriam]]></dc:creator>
-		<guid isPermaLink="false">http://blogster.digitalmind.ch/?page_id=62</guid>
+		<guid isPermaLink="false">http://bloggster.digitalmind.ch/?page_id=62</guid>
 		<description></description>
 		<content:encoded><![CDATA[Culpa alias vitae voluptate, facere natus neque, dolore laudantium nobis ad suscipit aut fuga ipsa totam veritatis error impedit delectus corporis! Aut voluptas, sint rerum rem voluptatum aperiam laudantium earum autem inventore, eligendi dolorem sed animi magnam minus atque est perferendis veritatis obcaecati non ullam at, unde perspiciatis optio. Consectetur pariatur voluptatem vel laudantium laboriosam debitis saepe fugit laborum rem adipisci voluptates cum dolorum numquam dignissimos, corporis sapiente libero incidunt, repellat assumenda aliquam. Facilis sapiente ea atque inventore, magnam rem aliquid vel obcaecati nulla quasi ipsam quos eos. 
 
@@ -1376,10 +1376,10 @@ Dolorum molestias ad veritatis explicabo, quos? Labore eligendi quos culpa illum
 	</item>
 	<item>
 		<title>Let&#039;s Write!</title>
-		<link>http://blogster.digitalmind.ch/?page_id=69</link>
+		<link>http://bloggster.digitalmind.ch/?page_id=69</link>
 		<pubDate>Fri, 19 Dec 2014 15:02:29 +0000</pubDate>
 		<dc:creator><![CDATA[Myriam]]></dc:creator>
-		<guid isPermaLink="false">http://blogster.digitalmind.ch/?page_id=69</guid>
+		<guid isPermaLink="false">http://bloggster.digitalmind.ch/?page_id=69</guid>
 		<description></description>
 		<content:encoded><![CDATA[Dignissimos dolorum quidem veniam velit consequatur laudantium reprehenderit deleniti est optio vitae possimus error, modi cupiditate voluptas doloremque. Debitis recusandae voluptates perferendis ea nisi inventore quam dolore, voluptate possimus consequuntur officia natus neque porro vitae pariatur rem molestias quibusdam nostrum alias placeat quos magnam facere. Nam optio, laudantium amet deserunt, repellendus, quae asperiores ullam earum quos rem ratione accusamus quisquam saepe laborum nulla sint. Animi architecto, sit excepturi molestias quos, eum tenetur corrupti unde, vitae ad explicabo sequi? 
 
@@ -1414,10 +1414,10 @@ Totam sequi nemo, nam, dolorem eveniet quia. Voluptatum similique repellendus in
 	</item>
 	<item>
 		<title>Let&#039;s Write!</title>
-		<link>http://blogster.digitalmind.ch/?p=84</link>
+		<link>http://bloggster.digitalmind.ch/?p=84</link>
 		<pubDate>Fri, 19 Dec 2014 15:13:41 +0000</pubDate>
 		<dc:creator><![CDATA[Myriam]]></dc:creator>
-		<guid isPermaLink="false">http://blogster.digitalmind.ch/?p=84</guid>
+		<guid isPermaLink="false">http://bloggster.digitalmind.ch/?p=84</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1469,10 +1469,10 @@ Totam sequi nemo, nam, dolorem eveniet quia. Voluptatum similique repellendus in
 	</item>
 	<item>
 		<title></title>
-		<link>http://blogster.digitalmind.ch/?p=85</link>
+		<link>http://bloggster.digitalmind.ch/?p=85</link>
 		<pubDate>Fri, 19 Dec 2014 15:13:41 +0000</pubDate>
 		<dc:creator><![CDATA[Myriam]]></dc:creator>
-		<guid isPermaLink="false">http://blogster.digitalmind.ch/?p=85</guid>
+		<guid isPermaLink="false">http://bloggster.digitalmind.ch/?p=85</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1524,10 +1524,10 @@ Totam sequi nemo, nam, dolorem eveniet quia. Voluptatum similique repellendus in
 	</item>
 	<item>
 		<title></title>
-		<link>http://blogster.digitalmind.ch/?p=86</link>
+		<link>http://bloggster.digitalmind.ch/?p=86</link>
 		<pubDate>Fri, 19 Dec 2014 15:13:41 +0000</pubDate>
 		<dc:creator><![CDATA[Myriam]]></dc:creator>
-		<guid isPermaLink="false">http://blogster.digitalmind.ch/?p=86</guid>
+		<guid isPermaLink="false">http://bloggster.digitalmind.ch/?p=86</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1579,10 +1579,10 @@ Totam sequi nemo, nam, dolorem eveniet quia. Voluptatum similique repellendus in
 	</item>
 	<item>
 		<title></title>
-		<link>http://blogster.digitalmind.ch/?p=87</link>
+		<link>http://bloggster.digitalmind.ch/?p=87</link>
 		<pubDate>Fri, 19 Dec 2014 15:14:09 +0000</pubDate>
 		<dc:creator><![CDATA[Myriam]]></dc:creator>
-		<guid isPermaLink="false">http://blogster.digitalmind.ch/?p=87</guid>
+		<guid isPermaLink="false">http://bloggster.digitalmind.ch/?p=87</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1634,10 +1634,10 @@ Totam sequi nemo, nam, dolorem eveniet quia. Voluptatum similique repellendus in
 	</item>
 	<item>
 		<title></title>
-		<link>http://blogster.digitalmind.ch/?p=88</link>
+		<link>http://bloggster.digitalmind.ch/?p=88</link>
 		<pubDate>Fri, 19 Dec 2014 15:14:09 +0000</pubDate>
 		<dc:creator><![CDATA[Myriam]]></dc:creator>
-		<guid isPermaLink="false">http://blogster.digitalmind.ch/?p=88</guid>
+		<guid isPermaLink="false">http://bloggster.digitalmind.ch/?p=88</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1689,10 +1689,10 @@ Totam sequi nemo, nam, dolorem eveniet quia. Voluptatum similique repellendus in
 	</item>
 	<item>
 		<title></title>
-		<link>http://blogster.digitalmind.ch/?p=89</link>
+		<link>http://bloggster.digitalmind.ch/?p=89</link>
 		<pubDate>Fri, 19 Dec 2014 15:14:09 +0000</pubDate>
 		<dc:creator><![CDATA[Myriam]]></dc:creator>
-		<guid isPermaLink="false">http://blogster.digitalmind.ch/?p=89</guid>
+		<guid isPermaLink="false">http://bloggster.digitalmind.ch/?p=89</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1744,10 +1744,10 @@ Totam sequi nemo, nam, dolorem eveniet quia. Voluptatum similique repellendus in
 	</item>
 	<item>
 		<title></title>
-		<link>http://blogster.digitalmind.ch/?p=90</link>
+		<link>http://bloggster.digitalmind.ch/?p=90</link>
 		<pubDate>Fri, 19 Dec 2014 15:14:09 +0000</pubDate>
 		<dc:creator><![CDATA[Myriam]]></dc:creator>
-		<guid isPermaLink="false">http://blogster.digitalmind.ch/?p=90</guid>
+		<guid isPermaLink="false">http://bloggster.digitalmind.ch/?p=90</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1799,10 +1799,10 @@ Totam sequi nemo, nam, dolorem eveniet quia. Voluptatum similique repellendus in
 	</item>
 	<item>
 		<title></title>
-		<link>http://blogster.digitalmind.ch/?p=99</link>
+		<link>http://bloggster.digitalmind.ch/?p=99</link>
 		<pubDate>Fri, 19 Dec 2014 15:35:22 +0000</pubDate>
 		<dc:creator><![CDATA[Myriam]]></dc:creator>
-		<guid isPermaLink="false">http://blogster.digitalmind.ch/?p=99</guid>
+		<guid isPermaLink="false">http://bloggster.digitalmind.ch/?p=99</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1854,10 +1854,10 @@ Totam sequi nemo, nam, dolorem eveniet quia. Voluptatum similique repellendus in
 	</item>
 	<item>
 		<title></title>
-		<link>http://blogster.digitalmind.ch/?p=100</link>
+		<link>http://bloggster.digitalmind.ch/?p=100</link>
 		<pubDate>Fri, 19 Dec 2014 15:35:22 +0000</pubDate>
 		<dc:creator><![CDATA[Myriam]]></dc:creator>
-		<guid isPermaLink="false">http://blogster.digitalmind.ch/?p=100</guid>
+		<guid isPermaLink="false">http://bloggster.digitalmind.ch/?p=100</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1909,10 +1909,10 @@ Totam sequi nemo, nam, dolorem eveniet quia. Voluptatum similique repellendus in
 	</item>
 	<item>
 		<title></title>
-		<link>http://blogster.digitalmind.ch/?p=111</link>
+		<link>http://bloggster.digitalmind.ch/?p=111</link>
 		<pubDate>Fri, 19 Dec 2014 15:59:15 +0000</pubDate>
 		<dc:creator><![CDATA[Myriam]]></dc:creator>
-		<guid isPermaLink="false">http://blogster.digitalmind.ch/?p=111</guid>
+		<guid isPermaLink="false">http://bloggster.digitalmind.ch/?p=111</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1964,10 +1964,10 @@ Totam sequi nemo, nam, dolorem eveniet quia. Voluptatum similique repellendus in
 	</item>
 	<item>
 		<title>way</title>
-		<link>http://blogster.digitalmind.ch/?attachment_id=130</link>
+		<link>http://bloggster.digitalmind.ch/?attachment_id=130</link>
 		<pubDate>Tue, 03 Feb 2015 12:51:17 +0000</pubDate>
 		<dc:creator><![CDATA[Myriam]]></dc:creator>
-		<guid isPermaLink="false">http://blogster.digitalmind.ch/wp-content/uploads/2015/02/way.jpg</guid>
+		<guid isPermaLink="false">http://bloggster.digitalmind.ch/wp-content/uploads/2015/02/way.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1983,7 +1983,7 @@ Totam sequi nemo, nam, dolorem eveniet quia. Voluptatum similique repellendus in
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://blogster.digitalmind.ch/wp-content/uploads/2015/02/way.jpg</wp:attachment_url>
+		<wp:attachment_url>http://bloggster.digitalmind.ch/wp-content/uploads/2015/02/way.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2015/02/way.jpg]]></wp:meta_value>
@@ -1995,10 +1995,10 @@ Totam sequi nemo, nam, dolorem eveniet quia. Voluptatum similique repellendus in
 	</item>
 	<item>
 		<title>lightning</title>
-		<link>http://blogster.digitalmind.ch/?attachment_id=133</link>
+		<link>http://bloggster.digitalmind.ch/?attachment_id=133</link>
 		<pubDate>Tue, 03 Feb 2015 13:03:57 +0000</pubDate>
 		<dc:creator><![CDATA[Myriam]]></dc:creator>
-		<guid isPermaLink="false">http://blogster.digitalmind.ch/wp-content/uploads/2015/02/lightning.jpg</guid>
+		<guid isPermaLink="false">http://bloggster.digitalmind.ch/wp-content/uploads/2015/02/lightning.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2014,7 +2014,7 @@ Totam sequi nemo, nam, dolorem eveniet quia. Voluptatum similique repellendus in
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://blogster.digitalmind.ch/wp-content/uploads/2015/02/lightning.jpg</wp:attachment_url>
+		<wp:attachment_url>http://bloggster.digitalmind.ch/wp-content/uploads/2015/02/lightning.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2015/02/lightning.jpg]]></wp:meta_value>
@@ -2026,10 +2026,10 @@ Totam sequi nemo, nam, dolorem eveniet quia. Voluptatum similique repellendus in
 	</item>
 	<item>
 		<title>street</title>
-		<link>http://blogster.digitalmind.ch/?attachment_id=138</link>
+		<link>http://bloggster.digitalmind.ch/?attachment_id=138</link>
 		<pubDate>Tue, 03 Feb 2015 13:39:43 +0000</pubDate>
 		<dc:creator><![CDATA[Myriam]]></dc:creator>
-		<guid isPermaLink="false">http://blogster.digitalmind.ch/wp-content/uploads/2015/02/street.jpg</guid>
+		<guid isPermaLink="false">http://bloggster.digitalmind.ch/wp-content/uploads/2015/02/street.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2045,7 +2045,7 @@ Totam sequi nemo, nam, dolorem eveniet quia. Voluptatum similique repellendus in
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://blogster.digitalmind.ch/wp-content/uploads/2015/02/street.jpg</wp:attachment_url>
+		<wp:attachment_url>http://bloggster.digitalmind.ch/wp-content/uploads/2015/02/street.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2015/02/street.jpg]]></wp:meta_value>
@@ -2057,10 +2057,10 @@ Totam sequi nemo, nam, dolorem eveniet quia. Voluptatum similique repellendus in
 	</item>
 	<item>
 		<title>mountain</title>
-		<link>http://blogster.digitalmind.ch/?attachment_id=141</link>
+		<link>http://bloggster.digitalmind.ch/?attachment_id=141</link>
 		<pubDate>Tue, 03 Feb 2015 13:43:46 +0000</pubDate>
 		<dc:creator><![CDATA[Myriam]]></dc:creator>
-		<guid isPermaLink="false">http://blogster.digitalmind.ch/wp-content/uploads/2015/02/mountain.jpg</guid>
+		<guid isPermaLink="false">http://bloggster.digitalmind.ch/wp-content/uploads/2015/02/mountain.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2076,7 +2076,7 @@ Totam sequi nemo, nam, dolorem eveniet quia. Voluptatum similique repellendus in
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://blogster.digitalmind.ch/wp-content/uploads/2015/02/mountain.jpg</wp:attachment_url>
+		<wp:attachment_url>http://bloggster.digitalmind.ch/wp-content/uploads/2015/02/mountain.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2015/02/mountain.jpg]]></wp:meta_value>
@@ -2088,10 +2088,10 @@ Totam sequi nemo, nam, dolorem eveniet quia. Voluptatum similique repellendus in
 	</item>
 	<item>
 		<title>fallentree</title>
-		<link>http://blogster.digitalmind.ch/?attachment_id=144</link>
+		<link>http://bloggster.digitalmind.ch/?attachment_id=144</link>
 		<pubDate>Tue, 03 Feb 2015 13:51:40 +0000</pubDate>
 		<dc:creator><![CDATA[Myriam]]></dc:creator>
-		<guid isPermaLink="false">http://blogster.digitalmind.ch/wp-content/uploads/2015/02/fallentree.jpg</guid>
+		<guid isPermaLink="false">http://bloggster.digitalmind.ch/wp-content/uploads/2015/02/fallentree.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2107,7 +2107,7 @@ Totam sequi nemo, nam, dolorem eveniet quia. Voluptatum similique repellendus in
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://blogster.digitalmind.ch/wp-content/uploads/2015/02/fallentree.jpg</wp:attachment_url>
+		<wp:attachment_url>http://bloggster.digitalmind.ch/wp-content/uploads/2015/02/fallentree.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2015/02/fallentree.jpg]]></wp:meta_value>
@@ -2119,10 +2119,10 @@ Totam sequi nemo, nam, dolorem eveniet quia. Voluptatum similique repellendus in
 	</item>
 	<item>
 		<title>shed</title>
-		<link>http://blogster.digitalmind.ch/?attachment_id=147</link>
+		<link>http://bloggster.digitalmind.ch/?attachment_id=147</link>
 		<pubDate>Tue, 03 Feb 2015 13:56:50 +0000</pubDate>
 		<dc:creator><![CDATA[Myriam]]></dc:creator>
-		<guid isPermaLink="false">http://blogster.digitalmind.ch/wp-content/uploads/2015/02/shed.jpg</guid>
+		<guid isPermaLink="false">http://bloggster.digitalmind.ch/wp-content/uploads/2015/02/shed.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2138,7 +2138,7 @@ Totam sequi nemo, nam, dolorem eveniet quia. Voluptatum similique repellendus in
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://blogster.digitalmind.ch/wp-content/uploads/2015/02/shed.jpg</wp:attachment_url>
+		<wp:attachment_url>http://bloggster.digitalmind.ch/wp-content/uploads/2015/02/shed.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2015/02/shed.jpg]]></wp:meta_value>
@@ -2150,10 +2150,10 @@ Totam sequi nemo, nam, dolorem eveniet quia. Voluptatum similique repellendus in
 	</item>
 	<item>
 		<title>water</title>
-		<link>http://blogster.digitalmind.ch/?attachment_id=150</link>
+		<link>http://bloggster.digitalmind.ch/?attachment_id=150</link>
 		<pubDate>Tue, 03 Feb 2015 14:01:11 +0000</pubDate>
 		<dc:creator><![CDATA[Myriam]]></dc:creator>
-		<guid isPermaLink="false">http://blogster.digitalmind.ch/wp-content/uploads/2015/02/water.jpg</guid>
+		<guid isPermaLink="false">http://bloggster.digitalmind.ch/wp-content/uploads/2015/02/water.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2169,7 +2169,7 @@ Totam sequi nemo, nam, dolorem eveniet quia. Voluptatum similique repellendus in
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://blogster.digitalmind.ch/wp-content/uploads/2015/02/water.jpg</wp:attachment_url>
+		<wp:attachment_url>http://bloggster.digitalmind.ch/wp-content/uploads/2015/02/water.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2015/02/water.jpg]]></wp:meta_value>
@@ -2181,10 +2181,10 @@ Totam sequi nemo, nam, dolorem eveniet quia. Voluptatum similique repellendus in
 	</item>
 	<item>
 		<title>Pretty Old Cameras</title>
-		<link>http://blogster.digitalmind.ch/?p=35</link>
+		<link>http://bloggster.digitalmind.ch/?p=35</link>
 		<pubDate>Fri, 19 Dec 2014 14:36:28 +0000</pubDate>
 		<dc:creator><![CDATA[Myriam]]></dc:creator>
-		<guid isPermaLink="false">http://blogster.digitalmind.ch/?p=35</guid>
+		<guid isPermaLink="false">http://bloggster.digitalmind.ch/?p=35</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore quidem quis incidunt consequatur corporis temporibus, eius officiis nemo, error non et quas ab. Repudiandae, asperiores non dolorem unde provident quam! Hic adipisci impedit nemo. Rerum non quaerat quo saepe quidem sit ratione tempora, harum, veniam nam itaque quam nostrum. Mollitia, quis dolorem perspiciatis eius, voluptatem fugit enim repudiandae non, consectetur dolore dolor repellat id ut impedit minus. 
 
@@ -2223,10 +2223,10 @@ In cum temporibus aspernatur itaque blanditiis quia, minima debitis delectus qua
 	</item>
 	<item>
 		<title>A Look From Above</title>
-		<link>http://blogster.digitalmind.ch/?p=38</link>
+		<link>http://bloggster.digitalmind.ch/?p=38</link>
 		<pubDate>Fri, 19 Dec 2014 14:47:49 +0000</pubDate>
 		<dc:creator><![CDATA[Myriam]]></dc:creator>
-		<guid isPermaLink="false">http://blogster.digitalmind.ch/?p=38</guid>
+		<guid isPermaLink="false">http://bloggster.digitalmind.ch/?p=38</guid>
 		<description></description>
 		<content:encoded><![CDATA[Debitis, temporibus animi nesciunt numquam excepturi incidunt corrupti corporis modi pariatur, veritatis dolor doloremque enim ducimus, eaque quisquam delectus id voluptatibus velit tempora suscipit odit explicabo! Esse rerum, nisi. 
 
@@ -2266,10 +2266,10 @@ Saepe harum, quo reiciendis magni velit pariatur non aliquid aliquam doloremque 
 	</item>
 	<item>
 		<title>Speakers</title>
-		<link>http://blogster.digitalmind.ch/?p=43</link>
+		<link>http://bloggster.digitalmind.ch/?p=43</link>
 		<pubDate>Fri, 19 Dec 2014 14:49:10 +0000</pubDate>
 		<dc:creator><![CDATA[Myriam]]></dc:creator>
-		<guid isPermaLink="false">http://blogster.digitalmind.ch/?p=43</guid>
+		<guid isPermaLink="false">http://bloggster.digitalmind.ch/?p=43</guid>
 		<description></description>
 		<content:encoded><![CDATA[Vel neque, dolore accusamus repudiandae dignissimos. Voluptas qui alias asperiores earum, rerum vitae aliquid ipsam ut molestias incidunt doloribus, totam facere! Officia sunt deleniti iure, numquam, porro nostrum nihil aspernatur quasi reiciendis possimus ullam enim unde vel blanditiis quam et. Veniam incidunt, quaerat at? Tempora commodi ea modi dicta. Incidunt at reiciendis accusamus dolorum. 
 
@@ -2308,10 +2308,10 @@ Fugit ex asperiores itaque, deserunt doloribus quos ipsum maxime! Possimus maior
 	</item>
 	<item>
 		<title>Don&#039;t Just Stand There</title>
-		<link>http://blogster.digitalmind.ch/?p=46</link>
+		<link>http://bloggster.digitalmind.ch/?p=46</link>
 		<pubDate>Fri, 19 Dec 2014 14:50:49 +0000</pubDate>
 		<dc:creator><![CDATA[Myriam]]></dc:creator>
-		<guid isPermaLink="false">http://blogster.digitalmind.ch/?p=46</guid>
+		<guid isPermaLink="false">http://bloggster.digitalmind.ch/?p=46</guid>
 		<description></description>
 		<content:encoded><![CDATA[Culpa et, aliquam laboriosam, odio cupiditate totam optio distinctio impedit explicabo libero? Corporis, voluptatum, sint aut libero commodi minus optio ullam rem magnam ex ipsa, quisquam saepe, assumenda tempora soluta molestias quam dignissimos odit consequatur dolores at eligendi? Asperiores nihil impedit error nisi, quo ea voluptates labore quisquam nulla itaque laudantium eaque iure animi totam, assumenda, quis cupiditate. 
 
@@ -2350,10 +2350,10 @@ Quae ut, dolores distinctio ad repellat at facere optio eos quibusdam excepturi,
 	</item>
 	<item>
 		<title>Not that Ordinary</title>
-		<link>http://blogster.digitalmind.ch/?p=49</link>
+		<link>http://bloggster.digitalmind.ch/?p=49</link>
 		<pubDate>Fri, 19 Dec 2014 14:52:47 +0000</pubDate>
 		<dc:creator><![CDATA[Myriam]]></dc:creator>
-		<guid isPermaLink="false">http://blogster.digitalmind.ch/?p=49</guid>
+		<guid isPermaLink="false">http://bloggster.digitalmind.ch/?p=49</guid>
 		<description></description>
 		<content:encoded><![CDATA[Voluptas ab cupiditate minima inventore fugiat ipsam, sit temporibus vitae impedit nulla maxime minus alias delectus, consequatur repellat, eos voluptate. Autem inventore laboriosam magni incidunt, eos error, esse suscipit voluptates corrupti facilis, consequuntur! 
 
@@ -2392,10 +2392,10 @@ Adipisci pariatur soluta autem, dolor ullam labore dolore enim beatae tenetur cu
 	</item>
 	<item>
 		<title>Ampersand</title>
-		<link>http://blogster.digitalmind.ch/?p=52</link>
+		<link>http://bloggster.digitalmind.ch/?p=52</link>
 		<pubDate>Fri, 19 Dec 2014 14:54:11 +0000</pubDate>
 		<dc:creator><![CDATA[Myriam]]></dc:creator>
-		<guid isPermaLink="false">http://blogster.digitalmind.ch/?p=52</guid>
+		<guid isPermaLink="false">http://bloggster.digitalmind.ch/?p=52</guid>
 		<description></description>
 		<content:encoded><![CDATA[Quis nemo consequatur quisquam eaque quidem, cupiditate, nulla, reiciendis similique doloribus, tempora nihil voluptates necessitatibus eum! Error consequuntur beatae nam voluptates labore aliquam quaerat, porro, eos totam, ut nisi facere fugit possimus. 
 
@@ -2434,10 +2434,10 @@ Odio praesentium asperiores dolor sequi perspiciatis porro, rem ut officia id ev
 	</item>
 	<item>
 		<title>Are There Words in it?</title>
-		<link>http://blogster.digitalmind.ch/?p=55</link>
+		<link>http://bloggster.digitalmind.ch/?p=55</link>
 		<pubDate>Fri, 19 Dec 2014 14:56:26 +0000</pubDate>
 		<dc:creator><![CDATA[Myriam]]></dc:creator>
-		<guid isPermaLink="false">http://blogster.digitalmind.ch/?p=55</guid>
+		<guid isPermaLink="false">http://bloggster.digitalmind.ch/?p=55</guid>
 		<description></description>
 		<content:encoded><![CDATA[Qui id quas iste. Quasi explicabo sit aperiam, eos provident, dolore iure asperiores amet modi nesciunt assumenda possimus blanditiis fugit qui ut ratione distinctio aliquid facilis unde itaque. Ipsa itaque voluptatibus impedit alias nostrum eum illo nobis, quod praesentium atque molestias earum cumque reiciendis at expedita iure quidem enim quisquam a, blanditiis quos dolorem. 
 
@@ -2476,10 +2476,10 @@ Officiis sequi, dolorem a facilis consequuntur aspernatur ipsum recusandae commo
 	</item>
 	<item>
 		<title>Measurements</title>
-		<link>http://blogster.digitalmind.ch/?p=58</link>
+		<link>http://bloggster.digitalmind.ch/?p=58</link>
 		<pubDate>Fri, 19 Dec 2014 14:57:31 +0000</pubDate>
 		<dc:creator><![CDATA[Myriam]]></dc:creator>
-		<guid isPermaLink="false">http://blogster.digitalmind.ch/?p=58</guid>
+		<guid isPermaLink="false">http://bloggster.digitalmind.ch/?p=58</guid>
 		<description></description>
 		<content:encoded><![CDATA[Numquam repellendus, quisquam est suscipit quos, veritatis, molestias ipsa dolore ducimus aperiam odio temporibus nam. Praesentium, voluptatibus reiciendis aut hic totam cum eveniet temporibus explicabo ratione blanditiis fugiat at, aperiam iste quaerat. 
 
@@ -2518,10 +2518,10 @@ Corporis temporibus voluptate ratione aliquid quod consectetur, quo numquam ulla
 	</item>
 	<item>
 		<title>By the Window</title>
-		<link>http://blogster.digitalmind.ch/?p=66</link>
+		<link>http://bloggster.digitalmind.ch/?p=66</link>
 		<pubDate>Fri, 19 Dec 2014 15:01:19 +0000</pubDate>
 		<dc:creator><![CDATA[Myriam]]></dc:creator>
-		<guid isPermaLink="false">http://blogster.digitalmind.ch/?p=66</guid>
+		<guid isPermaLink="false">http://bloggster.digitalmind.ch/?p=66</guid>
 		<description></description>
 		<content:encoded><![CDATA[Perferendis, quia. Tempore, mollitia libero repudiandae perspiciatis dolore esse similique itaque quam, optio quas ipsam amet. Dicta quidem omnis unde necessitatibus, quos, perspiciatis nesciunt minus eum, aliquid facere deserunt harum iure porro repudiandae nihil natus tempora animi fugiat. 
 
@@ -2560,10 +2560,10 @@ Repellat ipsa aliquam perferendis quasi eaque possimus ex voluptatem pariatur is
 	</item>
 	<item>
 		<title>Analog Times</title>
-		<link>http://blogster.digitalmind.ch/?p=72</link>
+		<link>http://bloggster.digitalmind.ch/?p=72</link>
 		<pubDate>Fri, 19 Dec 2014 15:04:04 +0000</pubDate>
 		<dc:creator><![CDATA[Myriam]]></dc:creator>
-		<guid isPermaLink="false">http://blogster.digitalmind.ch/?p=72</guid>
+		<guid isPermaLink="false">http://bloggster.digitalmind.ch/?p=72</guid>
 		<description></description>
 		<content:encoded><![CDATA[Voluptatum delectus reprehenderit perspiciatis fugiat repellat, tempora voluptate quis ab beatae! Fugit unde vel consectetur magnam omnis aperiam, totam incidunt voluptates rerum repudiandae praesentium perspiciatis, ad obcaecati alias, facilis dolorum assumenda odio inventore neque! Hic rerum deserunt expedita consectetur, repellat nihil, fugit excepturi, id maxime iure quod a vel similique, aut ab eius ipsa in eaque optio sed! 
 
@@ -2644,10 +2644,10 @@ Natus quo at, quaerat est, voluptatem totam deleniti consequuntur odio repellend
 	</item>
 	<item>
 		<title>Melancholy</title>
-		<link>http://blogster.digitalmind.ch/?p=75</link>
+		<link>http://bloggster.digitalmind.ch/?p=75</link>
 		<pubDate>Fri, 19 Dec 2014 15:05:28 +0000</pubDate>
 		<dc:creator><![CDATA[Myriam]]></dc:creator>
-		<guid isPermaLink="false">http://blogster.digitalmind.ch/?p=75</guid>
+		<guid isPermaLink="false">http://bloggster.digitalmind.ch/?p=75</guid>
 		<description></description>
 		<content:encoded><![CDATA[Esse officiis libero aspernatur, quae aliquam consequatur? Nemo quia tempore dignissimos numquam dolore, ipsum, cupiditate ducimus laborum hic voluptatibus cumque in vitae assumenda aliquam rerum aut. Facilis eligendi voluptate est ut sunt debitis adipisci maiores nisi, possimus sit soluta, voluptatum dicta quia porro tenetur. 
 
@@ -2687,10 +2687,10 @@ Officia autem sed fugit enim quaerat, dolores animi deleniti iusto, repudiandae 
 	</item>
 	<item>
 		<title>Dark Elegance</title>
-		<link>http://blogster.digitalmind.ch/?p=78</link>
+		<link>http://bloggster.digitalmind.ch/?p=78</link>
 		<pubDate>Fri, 19 Dec 2014 15:06:40 +0000</pubDate>
 		<dc:creator><![CDATA[Myriam]]></dc:creator>
-		<guid isPermaLink="false">http://blogster.digitalmind.ch/?p=78</guid>
+		<guid isPermaLink="false">http://bloggster.digitalmind.ch/?p=78</guid>
 		<description></description>
 		<content:encoded><![CDATA[Quasi quisquam ipsum ut, omnis accusantium, explicabo dolorum quos illum quaerat eveniet voluptates non veniam eos temporibus nulla natus iure? Reprehenderit optio officia quos aut quidem qui, deleniti, amet molestias eligendi nesciunt id corrupti. Facere iusto, repellendus deserunt fugiat commodi maxime laborum libero nostrum dicta neque, a labore nobis at, iure explicabo minus tenetur magnam architecto? Nulla quidem magni iste tenetur reiciendis, ut, deserunt maxime saepe. 
 
@@ -2730,10 +2730,10 @@ Architecto cum commodi debitis amet rem obcaecati distinctio consequatur corpori
 	</item>
 	<item>
 		<title>Study Old History</title>
-		<link>http://blogster.digitalmind.ch/?p=81</link>
+		<link>http://bloggster.digitalmind.ch/?p=81</link>
 		<pubDate>Fri, 19 Dec 2014 15:07:48 +0000</pubDate>
 		<dc:creator><![CDATA[Myriam]]></dc:creator>
-		<guid isPermaLink="false">http://blogster.digitalmind.ch/?p=81</guid>
+		<guid isPermaLink="false">http://bloggster.digitalmind.ch/?p=81</guid>
 		<description></description>
 		<content:encoded><![CDATA[Rem veritatis neque eum, architecto dolorum, odit commodi tempore voluptatibus quis vero ut nostrum doloribus eius aliquid, similique facere sapiente quas incidunt aperiam nulla repellendus nobis harum, perspiciatis at. 
 
@@ -2773,7 +2773,7 @@ Doloremque dolor voluptatem quibusdam fugiat ratione veniam, illum architecto do
 		<wp:comment>
 			<wp:comment_id>7</wp:comment_id>
 			<wp:comment_author><![CDATA[Digitalmind]]></wp:comment_author>
-			<wp:comment_author_email>blogster@digitalmind.ch</wp:comment_author_email>
+			<wp:comment_author_email>bloggster@digitalmind.ch</wp:comment_author_email>
 			<wp:comment_author_url></wp:comment_author_url>
 			<wp:comment_author_IP>62.2.204.46</wp:comment_author_IP>
 			<wp:comment_date>2015-02-02 10:35:40</wp:comment_date>
@@ -2795,12 +2795,12 @@ Doloremque dolor voluptatem quibusdam fugiat ratione veniam, illum architecto do
 	</item>
 	<item>
 		<title>Information</title>
-		<link>http://blogster.digitalmind.ch/?page_id=91</link>
+		<link>http://bloggster.digitalmind.ch/?page_id=91</link>
 		<pubDate>Fri, 19 Dec 2014 15:34:20 +0000</pubDate>
 		<dc:creator><![CDATA[Myriam]]></dc:creator>
-		<guid isPermaLink="false">http://blogster.digitalmind.ch/?page_id=91</guid>
+		<guid isPermaLink="false">http://bloggster.digitalmind.ch/?page_id=91</guid>
 		<description></description>
-		<content:encoded><![CDATA[Even though Blogster does not need much of an explanation, we still provide some information.]]></content:encoded>
+		<content:encoded><![CDATA[Even though Bloggster does not need much of an explanation, we still provide some information.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>91</wp:post_id>
 		<wp:post_date>2014-12-19 15:34:20</wp:post_date>
@@ -2821,10 +2821,10 @@ Doloremque dolor voluptatem quibusdam fugiat ratione veniam, illum architecto do
 	</item>
 	<item>
 		<title>Typography</title>
-		<link>http://blogster.digitalmind.ch/?page_id=92</link>
+		<link>http://bloggster.digitalmind.ch/?page_id=92</link>
 		<pubDate>Fri, 19 Dec 2014 15:34:25 +0000</pubDate>
 		<dc:creator><![CDATA[Myriam]]></dc:creator>
-		<guid isPermaLink="false">http://blogster.digitalmind.ch/?page_id=92</guid>
+		<guid isPermaLink="false">http://bloggster.digitalmind.ch/?page_id=92</guid>
 		<description></description>
 		<content:encoded><![CDATA[<h1>Heading 1</h1>
 <h2>Heading 2</h2>
@@ -2876,19 +2876,19 @@ Blockquotes Rock!</blockquote>
 	</item>
 	<item>
 		<title>Layouts</title>
-		<link>http://blogster.digitalmind.ch/?page_id=101</link>
+		<link>http://bloggster.digitalmind.ch/?page_id=101</link>
 		<pubDate>Fri, 19 Dec 2014 15:49:13 +0000</pubDate>
 		<dc:creator><![CDATA[Myriam]]></dc:creator>
-		<guid isPermaLink="false">http://blogster.digitalmind.ch/?page_id=101</guid>
+		<guid isPermaLink="false">http://bloggster.digitalmind.ch/?page_id=101</guid>
 		<description></description>
 		<content:encoded><![CDATA[This template comes with a few layout options, which are all showcased here.
 <h2>Posts</h2>
-Blogster has two different post templates.
+Bloggster has two different post templates.
 Decide wether you want your posts to be full-width or with sidebar.
-<div class="post_showcase"><a href="http://blogster.digitalmind.ch/?p=72"><img src="http://blogster.digitalmind.ch/wp-content/uploads/2014/12/post_sidebar.png" alt="post_sidebar" class="alignnone size-full wp-image-102" /></a><a href="http://blogster.digitalmind.ch/?p=75"><img src="http://blogster.digitalmind.ch/wp-content/uploads/2014/12/post_fullwidth.png" alt="post_fullwidth" class="alignnone size-full wp-image-103" /></a></div>
+<div class="post_showcase"><a href="http://bloggster.digitalmind.ch/?p=72"><img src="http://bloggster.digitalmind.ch/wp-content/uploads/2014/12/post_sidebar.png" alt="post_sidebar" class="alignnone size-full wp-image-102" /></a><a href="http://bloggster.digitalmind.ch/?p=75"><img src="http://bloggster.digitalmind.ch/wp-content/uploads/2014/12/post_fullwidth.png" alt="post_fullwidth" class="alignnone size-full wp-image-103" /></a></div>
 <h2>Pages</h2>
 You have the same choice for pages, as well as the archive template.
-<div class="page_showcase"><a href="http://blogster.digitalmind.ch/?page_id=62"><img src="http://blogster.digitalmind.ch/wp-content/uploads/2014/12/page_sidebar.png" alt="page_sidebar" class="alignnone size-full wp-image-104" /></a><a href="http://blogster.digitalmind.ch/?page_id=69"><img src="http://blogster.digitalmind.ch/wp-content/uploads/2014/12/page_fullwidth.png" alt="page_fullwidth" class="alignnone size-full wp-image-105" /></a><a href="http://blogster.digitalmind.ch/wp-content/uploads/2014/12/page_archives.png"><img src="http://blogster.digitalmind.ch/wp-content/uploads/2014/12/page_archives.png" alt="page_archives" class="alignnone size-full wp-image-106" /></a></div>]]></content:encoded>
+<div class="page_showcase"><a href="http://bloggster.digitalmind.ch/?page_id=62"><img src="http://bloggster.digitalmind.ch/wp-content/uploads/2014/12/page_sidebar.png" alt="page_sidebar" class="alignnone size-full wp-image-104" /></a><a href="http://bloggster.digitalmind.ch/?page_id=69"><img src="http://bloggster.digitalmind.ch/wp-content/uploads/2014/12/page_fullwidth.png" alt="page_fullwidth" class="alignnone size-full wp-image-105" /></a><a href="http://bloggster.digitalmind.ch/wp-content/uploads/2014/12/page_archives.png"><img src="http://bloggster.digitalmind.ch/wp-content/uploads/2014/12/page_archives.png" alt="page_archives" class="alignnone size-full wp-image-106" /></a></div>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>101</wp:post_id>
 		<wp:post_date>2014-12-19 15:49:13</wp:post_date>
@@ -2913,10 +2913,10 @@ You have the same choice for pages, as well as the archive template.
 	</item>
 	<item>
 		<title>Frankenstein: Chapter 17</title>
-		<link>http://blogster.digitalmind.ch/?p=140</link>
+		<link>http://bloggster.digitalmind.ch/?p=140</link>
 		<pubDate>Tue, 03 Feb 2015 13:48:33 +0000</pubDate>
 		<dc:creator><![CDATA[Myriam]]></dc:creator>
-		<guid isPermaLink="false">http://blogster.digitalmind.ch/?p=140</guid>
+		<guid isPermaLink="false">http://bloggster.digitalmind.ch/?p=140</guid>
 		<description></description>
 		<content:encoded><![CDATA[Night was far advanced when I came to the halfway resting-place and seated myself beside the fountain. The stars shone at intervals as the clouds passed from over them; the dark pines rose before me, and every here and there a broken tree lay on the ground; it was a scene of wonderful solemnity and stirred strange thoughts within me. I wept bitterly, and clasping my hands in agony, I exclaimed, 
 <blockquote>‘Oh! Stars and clouds and winds, ye are all about to mock me; if ye really pity me, crush sensation and memory; let me become as nought; but if not, depart, depart, and leave me in darkness.’</blockquote>
@@ -2951,10 +2951,10 @@ Morning dawned before I arrived at the village of Chamounix; I took no rest, but
 	</item>
 	<item>
 		<title>Frankenstein: Chapter 24</title>
-		<link>http://blogster.digitalmind.ch/?p=143</link>
+		<link>http://bloggster.digitalmind.ch/?p=143</link>
 		<pubDate>Tue, 03 Feb 2015 13:51:54 +0000</pubDate>
 		<dc:creator><![CDATA[Myriam]]></dc:creator>
-		<guid isPermaLink="false">http://blogster.digitalmind.ch/?p=143</guid>
+		<guid isPermaLink="false">http://bloggster.digitalmind.ch/?p=143</guid>
 		<description></description>
 		<content:encoded><![CDATA[Even now I cannot recollect without passion my reveries while the work was incomplete. I trod heaven in my thoughts, now exulting in my powers, now burning with the idea of their effects. From my infancy I was imbued with high hopes and a lofty ambition; but how am I sunk! Oh! My friend, if you had known me as I once was, you would not recognize me in this state of degradation. Despondency rarely visited my heart; a high destiny seemed to bear me on, until I fell, never, never again to rise.’ 
 Must I then lose this admirable being? I have longed for a friend; I have sought one who would sympathize with and love me. Behold, on these desert seas I have found such a one, but I fear I have gained him only to know his value and lose him. I would reconcile him to life, but he repulses the idea.
@@ -2989,10 +2989,10 @@ Must I then lose this admirable being? I have longed for a friend; I have sought
 	</item>
 	<item>
 		<title>Frankenstein: Chapter 13</title>
-		<link>http://blogster.digitalmind.ch/?p=146</link>
+		<link>http://bloggster.digitalmind.ch/?p=146</link>
 		<pubDate>Tue, 03 Feb 2015 13:49:58 +0000</pubDate>
 		<dc:creator><![CDATA[Myriam]]></dc:creator>
-		<guid isPermaLink="false">http://blogster.digitalmind.ch/?p=146</guid>
+		<guid isPermaLink="false">http://bloggster.digitalmind.ch/?p=146</guid>
 		<description></description>
 		<content:encoded><![CDATA[‘I cannot describe to you the agony that these reflections inflicted upon me; I tried to dispel them, but sorrow only increased with knowledge. Oh, that I had forever remained in my native wood, nor known nor felt beyond the sensations of hunger, thirst, and heat!
 <blockquote>‘Of what a strange nature is knowledge! It clings to the mind when it has once seized on it like a lichen on the rock.</blockquote>
@@ -3027,10 +3027,10 @@ The gentle words of Agatha and the animated smiles of the charming Arabian were 
 	</item>
 	<item>
 		<title>Frankenstein: Chapter 21</title>
-		<link>http://blogster.digitalmind.ch/?p=149</link>
+		<link>http://bloggster.digitalmind.ch/?p=149</link>
 		<pubDate>Tue, 03 Feb 2015 14:01:27 +0000</pubDate>
 		<dc:creator><![CDATA[Myriam]]></dc:creator>
-		<guid isPermaLink="false">http://blogster.digitalmind.ch/?p=149</guid>
+		<guid isPermaLink="false">http://bloggster.digitalmind.ch/?p=149</guid>
 		<description></description>
 		<content:encoded><![CDATA[My father was enraptured on finding me freed from the vexations of a criminal charge, that I was again allowed to breathe the fresh atmosphere and permitted to return to my native country. I did not participate in these feelings, for to me the walls of a dungeon or a palace were alike hateful. 
 <blockquote>The cup of life was poisoned forever, and although the sun shone upon me, as upon the happy and gay of heart, I saw around me nothing but a dense and frightful darkness, penetrated by no light but the glimmer of two eyes that glared upon me.</blockquote>
@@ -3065,17 +3065,17 @@ My father tried to awaken in me the feelings of affection. He talked of Geneva, 
 	</item>
 	<item>
 		<title>Frankenstein: Letter 1</title>
-		<link>http://blogster.digitalmind.ch/?p=117</link>
+		<link>http://bloggster.digitalmind.ch/?p=117</link>
 		<pubDate>Tue, 03 Feb 2015 13:54:24 +0000</pubDate>
 		<dc:creator><![CDATA[Myriam]]></dc:creator>
-		<guid isPermaLink="false">http://blogster.digitalmind.ch/?p=117</guid>
+		<guid isPermaLink="false">http://bloggster.digitalmind.ch/?p=117</guid>
 		<description></description>
 		<content:encoded><![CDATA[These reflections have dispelled the agitation with which I began my letter, and I feel my heart glow with an enthusiasm which elevates me to heaven, for nothing contributes so much to tranquillize the mind as a steady purpose — a point on which the soul may fix its intellectual eye. This expedition has been the favourite dream of my early years. I have read with ardour the accounts of the various voyages which have been made in the prospect of arriving at the North Pacific Ocean through the seas which surround the pole. You may remember that a history of all the voyages made for purposes of discovery composed the whole of our good Uncle Thomas’ library. My education was neglected, yet I was passionately fond of reading. These volumes were my study day and night, and my familiarity with them increased that regret which I had felt, as a child, on learning that my father’s dying injunction had forbidden my uncle to allow me to embark in a seafaring life.
 These visions faded when I perused, for the first time, those poets whose effusions entranced my soul and lifted it to heaven.
 <blockquote>I also became a poet and for one year lived in a paradise of my own creation; I imagined that I also might obtain a niche in the temple where the names of Homer and Shakespeare are consecrated. You are well acquainted with my failure and how heavily I bore the disappointment. But just at that time I inherited the fortune of my cousin, and my thoughts were turned into the channel of their earlier bent.</blockquote>
 Six years have passed since I resolved on my present undertaking. I can, even now, remember the hour from which I dedicated myself to this great enterprise.
 
-<img class="alignnone" src="http://blogster.digitalmind.ch/wp-content/uploads/2015/02/water.jpg" alt="" width="2509" height="1673" />]]></content:encoded>
+<img class="alignnone" src="http://bloggster.digitalmind.ch/wp-content/uploads/2015/02/water.jpg" alt="" width="2509" height="1673" />]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>117</wp:post_id>
 		<wp:post_date>2015-02-03 14:54:24</wp:post_date>
@@ -3114,10 +3114,10 @@ Six years have passed since I resolved on my present undertaking. I can, even no
 	</item>
 	<item>
 		<title>Frankenstein: Letter 4</title>
-		<link>http://blogster.digitalmind.ch/?p=122</link>
+		<link>http://bloggster.digitalmind.ch/?p=122</link>
 		<pubDate>Tue, 03 Feb 2015 13:53:51 +0000</pubDate>
 		<dc:creator><![CDATA[Myriam]]></dc:creator>
-		<guid isPermaLink="false">http://blogster.digitalmind.ch/?p=122</guid>
+		<guid isPermaLink="false">http://bloggster.digitalmind.ch/?p=122</guid>
 		<description></description>
 		<content:encoded><![CDATA[He entered attentively into all my arguments in favour of my eventual success and into every minute detail of the measures I had taken to secure it. I was easily led by the sympathy which he evinced to use the language of my heart, to give utterance to the burning ardour of my soul, and to say, with all the fervour that warmed me, how gladly I would sacrifice my fortune, my existence, my every hope, to the furtherance of my enterprise. 
 
@@ -3158,10 +3158,10 @@ Such words, you may imagine, strongly excited my curiosity; but the paroxysm of 
 	</item>
 	<item>
 		<title>Frankenstein: Chapter 1</title>
-		<link>http://blogster.digitalmind.ch/?p=125</link>
+		<link>http://bloggster.digitalmind.ch/?p=125</link>
 		<pubDate>Tue, 03 Feb 2015 13:52:42 +0000</pubDate>
 		<dc:creator><![CDATA[Myriam]]></dc:creator>
-		<guid isPermaLink="false">http://blogster.digitalmind.ch/?p=125</guid>
+		<guid isPermaLink="false">http://bloggster.digitalmind.ch/?p=125</guid>
 		<description></description>
 		<content:encoded><![CDATA[When my father returned from Milan, he found playing with me in the hall of our villa a child fairer than pictured cherub — a creature who seemed to shed radiance from her looks and whose form and motions were lighter than the chamois of the hills. The apparition was soon explained. With his permission my mother prevailed on her rustic guardians to yield their charge to her. They were fond of the sweet orphan. Her presence had seemed a blessing to them, but it would be unfair to her to keep her in poverty and want when Providence afforded her such powerful protection. They consulted their village priest, and the result was that Elizabeth Lavenza became the inmate of my parents’ house— my more than sister—the beautiful and adored companion of all my occupations and 
 my pleasures.
@@ -3198,10 +3198,10 @@ We called each other familiarly by the name of cousin. No word, no expression co
 	</item>
 	<item>
 		<title>Frankenstein: Chapter 3</title>
-		<link>http://blogster.digitalmind.ch/?p=129</link>
+		<link>http://bloggster.digitalmind.ch/?p=129</link>
 		<pubDate>Tue, 03 Feb 2015 13:51:24 +0000</pubDate>
 		<dc:creator><![CDATA[Myriam]]></dc:creator>
-		<guid isPermaLink="false">http://blogster.digitalmind.ch/?p=129</guid>
+		<guid isPermaLink="false">http://bloggster.digitalmind.ch/?p=129</guid>
 		<description></description>
 		<content:encoded><![CDATA[‘The ancient teachers of this science,’ said he, ‘promised impossibilities and performed nothing. The modern masters promise very little; they know that metals cannot be transmuted and that the elixir of life is a chimera but these philosophers, whose hands seem only made to dabble in dirt, and their eyes to pore over the microscope or crucible, have indeed performed miracles. They penetrate into the recesses of nature and show how she works in her hiding-places. They ascend into the heavens; they have discovered how the blood circulates, and the nature of the air we breathe. They have acquired new and almost unlimited powers; they can command the thunders of heaven, mimic the earthquake, and even mock the invisible world with its own shadows.’
 Such were the professor’s words—rather let me say such the words of the fate—enounced to destroy me. As he went on I felt as if my soul were grappling with a palpable enemy; one by one the various keys were touched which formed the mechanism of my being; chord after chord was sounded, and soon my mind was filled with one thought, one conception, one purpose. 
@@ -3236,10 +3236,10 @@ I closed not my eyes that night. My internal being was in a state of insurrectio
 	</item>
 	<item>
 		<title>Frankenstein: Chapter 5</title>
-		<link>http://blogster.digitalmind.ch/?p=132</link>
+		<link>http://bloggster.digitalmind.ch/?p=132</link>
 		<pubDate>Tue, 03 Feb 2015 13:50:08 +0000</pubDate>
 		<dc:creator><![CDATA[Myriam]]></dc:creator>
-		<guid isPermaLink="false">http://blogster.digitalmind.ch/?p=132</guid>
+		<guid isPermaLink="false">http://bloggster.digitalmind.ch/?p=132</guid>
 		<description></description>
 		<content:encoded><![CDATA[It was on a dreary night of November that I beheld the accomplishment of my toils. With an anxiety that almost amounted to agony, I collected the instruments of life around me, that I might infuse a spark of being into the lifeless thing that lay at my feet. It was already one in the morning; the rain pattered dismally against the panes, and my candle was nearly burnt out, when, by the glimmer of the half-extinguished light, I saw the dull yellow eye of the creature open; it breathed hard, and a convulsive motion agitated its limbs.
 How can I describe my emotions at this catastrophe, or how delineate the wretch whom with such infinite pains and care I had endeavoured to form? His limbs were in proportion, and I had selected his features as beautiful. Beautiful! Great God! His yellow skin scarcely covered the work of muscles and arteries beneath; his hair was of a lustrous black, and flowing; his teeth of a pearly whiteness; but these luxuriances only formed a more horrid contrast with his watery eyes, that seemed almost of the same colour as the dun-white sockets in which they were set, his shrivelled
@@ -3276,10 +3276,10 @@ Unable to endure the aspect of the being I had created, I rushed out of the room
 	</item>
 	<item>
 		<title>Frankenstein: Chapter 9</title>
-		<link>http://blogster.digitalmind.ch/?p=137</link>
+		<link>http://bloggster.digitalmind.ch/?p=137</link>
 		<pubDate>Tue, 03 Feb 2015 13:50:11 +0000</pubDate>
 		<dc:creator><![CDATA[Myriam]]></dc:creator>
-		<guid isPermaLink="false">http://blogster.digitalmind.ch/?p=137</guid>
+		<guid isPermaLink="false">http://bloggster.digitalmind.ch/?p=137</guid>
 		<description></description>
 		<content:encoded><![CDATA[At these moments I wept bitterly and wished that peace would revisit my mind only that I might afford them consolation and happiness. But that could not be. Remorse extinguished every hope. 
 <blockquote>I had been the author of unalterable evils, and I lived in daily fear lest the monster whom I had created should perpetrate some new wickedness. I had an obscure feeling that all was not over and that he would still commit some signal crime, which by its enormity should almost efface the recollection of the past. There was always scope for fear so long as anything I loved remained behind. My abhorrence of this fiend cannot be conceived.</blockquote>
